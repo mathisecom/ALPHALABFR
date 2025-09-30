@@ -415,6 +415,22 @@
         "spacing": "none"
       }
     },
+    "scrolling_text_3TmHLJ": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#1b2c31",
+        "background_gradient": "",
+        "text_color": "#f2f8f9",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_khnryP": {
       "type": "media-with-text",
       "blocks": {
@@ -727,6 +743,7 @@
     "press_H97AjL",
     "logo_list_9ptVXL",
     "media_with_text_KgF8Fq",
+    "scrolling_text_3TmHLJ",
     "media_with_text_khnryP",
     "rich_text_xBpJ9t",
     "image_link_blocks_bqAKRF",
