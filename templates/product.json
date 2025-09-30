@@ -114,6 +114,16 @@
             "page": ""
           }
         },
+        "collapsible_text_qTCiNy": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<ol><li><strong>Commencez avec des cheveux propres et secs.</strong></li><li><strong>Appliquez doucement le dispositif de micro-infusion</strong> sur les zones clairsemées. Cela prend moins de 60 secondes et se ressent comme un léger tapotement de l’ongle sur la peau — totalement indolore. C’est tout ! Laissez le sérum absorber et poursuivez votre journée.</li><li><strong>Utilisez le dispositif une fois par semaine</strong> pour répartir uniformément le sérum sur le cuir chevelu. La <strong>régularité</strong> est essentielle pour constater des résultats.</li><li><strong>Évitez de laver vos cheveux ou d’appliquer d’autres produits</strong> pendant au moins 1 heure après l’utilisation pour permettre au sérum d’agir pleinement.</li></ol>",
+            "page": ""
+          }
+        },
         "collapsible_text_DLAteF": {
           "type": "collapsible_text",
           "settings": {
@@ -140,6 +150,7 @@
         "liquid_LUgmA9",
         "liquid_BkbmDc",
         "collapsible_text_7KNdDK",
+        "collapsible_text_qTCiNy",
         "collapsible_text_DLAteF"
       ],
       "settings": {
