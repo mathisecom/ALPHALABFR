@@ -172,6 +172,7 @@
         "item_jUDHxn": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2025-03-20T161232.693.webp",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
