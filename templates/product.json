@@ -271,12 +271,34 @@
             "show_rating": true,
             "rating": 4
           }
+        },
+        "quote_g9KEK4": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_KfYxax": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
         }
       },
       "block_order": [
         "quote_yNJgbw",
         "quote_EcGgLR",
-        "quote_qCYEdw"
+        "quote_qCYEdw",
+        "quote_g9KEK4",
+        "quote_KfYxax"
       ],
       "name": "Press",
       "settings": {
@@ -353,66 +375,12 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
-    },
-    "press_czzbaH": {
-      "type": "press",
-      "blocks": {
-        "quote_ynnfdj": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
-          }
-        },
-        "quote_9dNAyV": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
-          }
-        },
-        "quote_keiNCA": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
-          }
-        }
-      },
-      "block_order": [
-        "quote_ynnfdj",
-        "quote_9dNAyV",
-        "quote_keiNCA"
-      ],
-      "disabled": true,
-      "name": "Press",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
     }
   },
   "order": [
     "main",
     "multi_column_fwgfmR",
     "press_H97AjL",
-    "logo_list_9ptVXL",
-    "press_czzbaH"
+    "logo_list_9ptVXL"
   ]
 }
