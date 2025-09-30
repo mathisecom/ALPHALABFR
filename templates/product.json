@@ -116,12 +116,11 @@
         },
         "collapsible_text_DLAteF": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Ingrédients",
+            "content": "<p><strong>Extrait d’Eclipta Prostrata</strong> – Cette plante puissante a montré dans des études qu’elle surpassait le Minoxidil pour stimuler la régénération rapide des follicules et prolonger le cycle de croissance des cheveux.</p><p><strong>Panax Ginseng</strong> – Un facteur de croissance puissant cliniquement prouvé pour éliminer le DHT, ouvrant la voie à la repousse de cheveux sains et nouveaux.<br/><br/><strong>Huile de Menthe Poivrée & Extrait de Racine de Gingembre</strong> – Riches en vitamines et antioxydants, ces ingrédients nourrissent le cuir chevelu, améliorent la circulation et créent l’environnement idéal pour la croissance de cheveux forts et épais.<br/><br/><strong>Extrait de Feuille de Romarin</strong> – Alternative naturelle au Minoxidil pour favoriser la repousse des cheveux, particulièrement efficace contre l’alopécie androgénétique.</p>",
             "page": ""
           }
         }
