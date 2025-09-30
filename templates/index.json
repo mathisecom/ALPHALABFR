@@ -49,6 +49,65 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "logo_list_GKiUxY": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_RCeGGp": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025.png",
+            "logo_width": 90,
+            "link": ""
+          }
+        },
+        "logo_mWWRkq": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_1.png",
+            "logo_width": 90,
+            "link": ""
+          }
+        },
+        "logo_K49wTM": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_2.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_6zeKUQ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_3.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_RCeGGp",
+        "logo_mWWRkq",
+        "logo_K49wTM",
+        "logo_6zeKUQ"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "<p><strong>DÉJA VU SUR</strong></p>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
     "multi_column_xWdGPa": {
       "type": "multi-column",
       "blocks": {
@@ -335,6 +394,7 @@
   },
   "order": [
     "slideshow",
+    "logo_list_GKiUxY",
     "multi_column_xWdGPa",
     "scrolling_text_ggKbMJ",
     "rich_text_npkNmG",
