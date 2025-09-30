@@ -372,6 +372,223 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_xBpJ9t": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_KrTn98": {
+          "type": "subheading",
+          "settings": {
+            "text": "ILS TÉMOIGNE DE L'EFFICACITÉ"
+          }
+        },
+        "heading_fUz3eB": {
+          "type": "heading",
+          "settings": {
+            "text": "+3,000 Hommes Conquis",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_KrTn98",
+        "heading_fUz3eB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_bqAKRF": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_Efde8X": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_bayTxq": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_qRnatd": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_JF9a6L": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_HfXD7C": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_z7xUrf": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_Efde8X",
+        "item_bayTxq",
+        "item_qRnatd",
+        "item_JF9a6L",
+        "item_HfXD7C",
+        "item_z7xUrf"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "testimonials_nTGNFw": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_UeUnCf": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_Gzigp8": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_cypCym": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_qghQXk": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_fmK3RP": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_UeUnCf",
+        "testimonial_Gzigp8",
+        "testimonial_cypCym",
+        "testimonial_qghQXk",
+        "testimonial_fmK3RP"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#1b2c31",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "#f2f8f9",
+        "testimonial_card_text_color": ""
+      }
+    },
     "faq_7eBfbD": {
       "type": "faq",
       "blocks": {
@@ -431,6 +648,9 @@
     "multi_column_fwgfmR",
     "press_H97AjL",
     "logo_list_9ptVXL",
+    "rich_text_xBpJ9t",
+    "image_link_blocks_bqAKRF",
+    "testimonials_nTGNFw",
     "faq_7eBfbD"
   ]
 }
