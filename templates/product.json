@@ -166,19 +166,6 @@
     "multi_column_fwgfmR": {
       "type": "multi-column",
       "blocks": {
-        "item_MfAGGA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Titre_39.jpg",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_haHhjK": {
           "type": "item",
           "settings": {
@@ -205,6 +192,19 @@
             "link_style": "link"
           }
         },
+        "item_MfAGGA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_39.jpg",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_jUDHxn": {
           "type": "item",
           "settings": {
@@ -220,9 +220,9 @@
         }
       },
       "block_order": [
-        "item_MfAGGA",
         "item_haHhjK",
         "item_dqC4fB",
+        "item_MfAGGA",
         "item_jUDHxn"
       ],
       "name": "Multi-column",
@@ -231,8 +231,8 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "",
-        "title": "",
+        "subheading": "+3,000 Hommes Conquis Par AlphaLAB",
+        "title": "Vos Cheveux, Avant & Après",
         "content": "",
         "background": "",
         "background_gradient": "",
