@@ -27,11 +27,19 @@
             "text": "Paiement 100% Sécurisé",
             "url": ""
           }
+        },
+        "message_GyCarp": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_xzjbdL"
+        "message_xzjbdL",
+        "message_GyCarp"
       ],
       "settings": {
         "enable_sticky": false,
