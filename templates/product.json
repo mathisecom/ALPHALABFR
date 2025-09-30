@@ -24,6 +24,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_Dk6a4W": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "price": {
           "type": "price",
           "disabled": true,
@@ -118,6 +124,7 @@
       "block_order": [
         "liquid_Bij9WM",
         "title",
+        "liquid_Dk6a4W",
         "price",
         "rating",
         "description",
