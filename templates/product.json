@@ -339,12 +339,21 @@
             "logo_width": 90,
             "link": ""
           }
+        },
+        "logo_cimfy7": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_3.png",
+            "logo_width": 90,
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_KrprUJ",
         "logo_FGk79H",
-        "logo_8at7hy"
+        "logo_8at7hy",
+        "logo_cimfy7"
       ],
       "name": "Logo list",
       "settings": {
