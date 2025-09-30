@@ -109,7 +109,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Delivery Information",
+            "title": "Informations sur la Livraisons",
             "content": "<p>Commandez aujourd’hui, expédié le lendemain. Livraison en <strong>5 à 7 jours ouvrables</strong> avec suivi.</p>",
             "page": ""
           }
