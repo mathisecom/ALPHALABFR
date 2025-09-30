@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Livraison Offerte",
+            "url": ""
+          }
+        },
+        "message_xzjbdL": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100% Sécurisé",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_xzjbdL"
       ],
       "settings": {
         "enable_sticky": false,
