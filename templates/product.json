@@ -102,22 +102,12 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
+            "title": "Delivery Information",
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
         },
         "collapsible_text_DLAteF": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_cr3q7Y": {
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
@@ -142,8 +132,7 @@
         "liquid_LUgmA9",
         "liquid_BkbmDc",
         "collapsible_text_7KNdDK",
-        "collapsible_text_DLAteF",
-        "collapsible_text_cr3q7Y"
+        "collapsible_text_DLAteF"
       ],
       "settings": {
         "full_width": true,
