@@ -116,6 +116,7 @@
         },
         "collapsible_text_DLAteF": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
