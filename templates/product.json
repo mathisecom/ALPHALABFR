@@ -170,7 +170,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Titre_39.jpg",
-            "column_size": "3",
+            "column_size": "4",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -183,7 +183,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Titre_38.jpg",
-            "column_size": "3",
+            "column_size": "4",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -196,7 +196,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Titre_37.jpg",
-            "column_size": "3",
+            "column_size": "4",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -209,7 +209,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Untitled_design_-_2025-03-20T161232.693.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -331,11 +331,20 @@
             "logo_width": 80,
             "link": ""
           }
+        },
+        "logo_8at7hy": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_2.png",
+            "logo_width": 90,
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_KrprUJ",
-        "logo_FGk79H"
+        "logo_FGk79H",
+        "logo_8at7hy"
       ],
       "name": "Logo list",
       "settings": {
