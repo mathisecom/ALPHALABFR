@@ -238,10 +238,128 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "logo_list_9ptVXL": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_KrprUJ": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_mRVD97": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_zXMrEb": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_hRm4QG": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_ixHCJq": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_KrprUJ",
+        "logo_mRVD97",
+        "logo_zXMrEb",
+        "logo_hRm4QG",
+        "logo_ixHCJq"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "<p><strong>DÉJA VU SUR :</strong></p>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#f2f8f9",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "press_czzbaH": {
+      "type": "press",
+      "blocks": {
+        "quote_ynnfdj": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_9dNAyV": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_keiNCA": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_ynnfdj",
+        "quote_9dNAyV",
+        "quote_keiNCA"
+      ],
+      "disabled": true,
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
     "main",
-    "multi_column_fwgfmR"
+    "multi_column_fwgfmR",
+    "logo_list_9ptVXL",
+    "press_czzbaH"
   ]
 }
