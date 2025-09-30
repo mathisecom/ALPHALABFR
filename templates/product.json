@@ -319,45 +319,23 @@
         "logo_KrprUJ": {
           "type": "logo",
           "settings": {
-            "logo_width": 50,
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025.png",
+            "logo_width": 80,
             "link": ""
           }
         },
-        "logo_mRVD97": {
+        "logo_FGk79H": {
           "type": "logo",
           "settings": {
-            "logo_width": 50,
-            "link": ""
-          }
-        },
-        "logo_zXMrEb": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 50,
-            "link": ""
-          }
-        },
-        "logo_hRm4QG": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 50,
-            "link": ""
-          }
-        },
-        "logo_ixHCJq": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 50,
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_1.png",
+            "logo_width": 80,
             "link": ""
           }
         }
       },
       "block_order": [
         "logo_KrprUJ",
-        "logo_mRVD97",
-        "logo_zXMrEb",
-        "logo_hRm4QG",
-        "logo_ixHCJq"
+        "logo_FGk79H"
       ],
       "name": "Logo list",
       "settings": {
@@ -372,7 +350,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
+        "logo_item_background": "#f2f8f9",
         "logo_item_border": ""
       }
     }
