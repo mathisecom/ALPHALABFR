@@ -125,20 +125,36 @@
         "text_color": ""
       }
     },
+    "scrolling_text_ggKbMJ": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "rich_text_npkNmG": {
       "type": "rich-text",
       "blocks": {
         "subheading_n8EAbL": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "ILS TÉMOIGNE DE L'ÉFFICACITÉ"
           }
         },
         "heading_dP8hD4": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "+3,000 Hommes Conquis",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -320,6 +336,7 @@
   "order": [
     "slideshow",
     "multi_column_xWdGPa",
+    "scrolling_text_ggKbMJ",
     "rich_text_npkNmG",
     "image_link_blocks_LU8cQt",
     "testimonials_ExkWHg"
