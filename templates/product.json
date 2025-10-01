@@ -405,6 +405,7 @@
         "item_pexp67": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_15.png",
             "column_size": "3",
             "title": "Préparer le cuir chevelu",
             "heading_tag": "h4",
