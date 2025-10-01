@@ -401,7 +401,7 @@
             "column_size": "3",
             "title": "Préparer le cuir chevelu",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Commencez avec des cheveux propres et secs.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "button"
@@ -413,7 +413,7 @@
             "column_size": "3",
             "title": "Appliquer le sérum",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Passez doucement le dispositif de micro-infusion sur les zones clairsemées (moins de 60 secondes, indolore).</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -425,7 +425,7 @@
             "column_size": "3",
             "title": "Laisser agir et répéter",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Laissez le sérum s’absorber, utilisez une fois par semaine et évitez de laver ou d’appliquer d’autres produits pendant 1 heure.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
