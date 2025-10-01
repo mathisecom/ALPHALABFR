@@ -77,7 +77,8 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
+            "image": "shopify://shop_images/2_5.png",
+            "image_width": 190,
             "heading_size": "h3",
             "title": "Newsletters",
             "content": ""
@@ -95,7 +96,7 @@
           "type": "text",
           "settings": {
             "title": "Service Client",
-            "content": "<p><strong>Email :</strong> hello@alphalab.com</p><p><strong>Horaires :</strong></p><p>Lundi à vendredi : 9h à 12h et 14h à 18h<br/>Samedi et dimanche : 10h à 12h</p>",
+            "content": "<p><strong>Email :</strong> hello@alphalab.com</p><p><strong>Horaires :</strong></p><ul><li>Lundi à vendredi : 9h à 12h et 14h à 18h<br/></li><li>Samedi et dimanche : 10h à 12h</li></ul>",
             "enable_follow_on_shop": false
           }
         }
