@@ -582,7 +582,21 @@
           "type": "item",
           "settings": {
             "title": "Est-ce sûr ?",
-            "content": "<p>L’application est rapide : moins d’une minute. Appliquez simplement le produit sur les zones concernées et laissez agir.<br/><br/>Totalement indolore, sans marques ni rougeurs. Les aiguilles ultra-fines de 0,5 mm assurent un usage sûr et doux.</p>"
+            "content": "<p>Oui, il est formulé uniquement avec des ingrédients naturels et de haute qualité, sans produits chimiques synthétiques.</p>"
+          }
+        },
+        "item_6mhQrn": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce douloureux ?",
+            "content": "<p>Non, la sensation ressemble à un léger tapotement de l’ongle sur la peau — totalement indolore.</p>"
+          }
+        },
+        "item_XKU3nJ": {
+          "type": "item",
+          "settings": {
+            "title": "J’ai essayé beaucoup de produits sans succès. Qu’est-ce qui rend le vôtre différent ?",
+            "content": "<p>La plupart des produits échouent car ils ne font que déposer les ingrédients à la surface du cuir chevelu, où ils n’agissent pas. La vraie repousse nécessite de délivrer la formule en profondeur, aux racines, là où la chute de cheveux commence.<br/><br/>Notre technologie de micro-infusion assure une absorption maximale, tandis qu’un puissant mélange d’extraits de racine de réglisse, de sésame noir et de gingembre bloque la DHT, détoxifie le cuir chevelu et réactive les follicules dormants. C’est pourquoi notre produit fonctionne là où d’autres échouent.</p>"
           }
         }
       },
@@ -592,7 +606,9 @@
         "item_63GXqy",
         "item_XmYm4m",
         "item_pPdUWf",
-        "item_FYJebe"
+        "item_FYJebe",
+        "item_6mhQrn",
+        "item_XKU3nJ"
       ],
       "name": "FAQ",
       "settings": {
