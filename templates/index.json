@@ -570,13 +570,21 @@
             "title": "Perdra‑t‑on les résultats si on arrête ?",
             "content": "<p>Une fois les niveaux de DHT réduits, le cuir chevelu détoxifié et de nouveaux cheveux poussés, il faudra plusieurs mois, voire années, pour que la DHT s’accumule à nouveau.</p>"
           }
+        },
+        "item_pPdUWf": {
+          "type": "item",
+          "settings": {
+            "title": "Comment se déroule l’application ?",
+            "content": "<p>L’application est rapide : moins d’une minute. Appliquez simplement le produit sur les zones concernées et laissez agir.<br/><br/>Totalement indolore, sans marques ni rougeurs. Les aiguilles ultra-fines de 0,5 mm assurent un usage sûr et doux.</p>"
+          }
         }
       },
       "block_order": [
         "item_UJyGtr",
         "item_Xytd67",
         "item_63GXqy",
-        "item_XmYm4m"
+        "item_XmYm4m",
+        "item_pPdUWf"
       ],
       "name": "FAQ",
       "settings": {
