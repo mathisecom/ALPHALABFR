@@ -518,7 +518,6 @@
         "image_xCPQf8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Titre_42.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -526,7 +525,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Des résultats rapides, durables et sans effort",
-            "content": "",
+            "content": "<p>Avec <strong>AlphaLAB™</strong>, pas de routines compliquées : une application d’une minute par jour suffit. </p><p>En <strong>8 à 10 semaines</strong>, vos zones clairsemées se remplissent pour retrouver une apparence plus jeune, plus confiante et irrésistible.</p>",
             "link_text": "OBTENIR MAINTENANT",
             "link_url": "#shopify-section-template--20367070232815__main",
             "background": "#ffffff",
