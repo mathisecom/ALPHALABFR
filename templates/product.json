@@ -794,6 +794,7 @@
         "item_HfXD7C": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_24.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -806,6 +807,7 @@
         "item_z7xUrf": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_23.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
