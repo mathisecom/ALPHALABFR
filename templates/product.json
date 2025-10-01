@@ -742,6 +742,7 @@
         "item_Efde8X": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_18.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
