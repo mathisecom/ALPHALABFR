@@ -401,6 +401,81 @@
         "text_gradient": ""
       }
     },
+    "text_with_icons_4U7iTg": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_P9qhwi": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "circle",
+            "icon_background": "#f2f8f9",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_LDKEW4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "circle",
+            "icon_background": "#f2f8f9",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_qNdJjL": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "circle",
+            "icon_background": "#f2f8f9",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        },
+        "item_RQYchH": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "circle",
+            "icon_background": "#f2f8f9",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_P9qhwi",
+        "item_LDKEW4",
+        "item_qNdJjL",
+        "item_RQYchH"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_khnryP": {
       "type": "media-with-text",
       "blocks": {
@@ -845,6 +920,7 @@
     "logo_list_9ptVXL",
     "media_with_text_KgF8Fq",
     "scrolling_text_3TmHLJ",
+    "text_with_icons_4U7iTg",
     "media_with_text_khnryP",
     "slideshow_3tdXbV",
     "rich_text_xBpJ9t",
