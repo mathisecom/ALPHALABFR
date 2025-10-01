@@ -399,7 +399,7 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "",
+            "title": "Préparer le cuir chevelu",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
@@ -411,7 +411,7 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "",
+            "title": "Appliquer le sérum",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
@@ -423,7 +423,7 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "",
+            "title": "Laisser agir et répéter",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
