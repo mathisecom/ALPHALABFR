@@ -215,14 +215,14 @@
             "subheading": "",
             "title": "Recommandé par les Experts",
             "content": "<p>Les professionnels de la santé capillaire font confiance à <strong>AlphaLAB™</strong> pour son efficacité cliniquement prouvée.</p>",
-            "link_text": "",
-            "link_url": "",
+            "link_text": "DÉCOUVRIR",
+            "link_url": "shopify://products/alphalab-infuse",
             "background": "#1d2b32",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "button_background": "#f2f8f9",
+            "button_text_color": "#1d2b32"
           }
         }
       },
