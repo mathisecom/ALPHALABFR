@@ -525,10 +525,10 @@
         "item_e96DWe": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "column_size": "4",
+            "title": "Extrait d’Eclipta Prostrata",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Stimule la régénération des follicules et prolonge le cycle de croissance des cheveux, surpassant même le Minoxidil.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "button"
@@ -537,10 +537,10 @@
         "item_aQEAVD": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "column_size": "4",
+            "title": "Panax Ginseng",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Élimine le DHT pour favoriser la repousse de cheveux sains.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -549,10 +549,22 @@
         "item_xEzNfX": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "column_size": "4",
+            "title": "Huile de Menthe Poivrée & Extrait de Gingembre",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Nourrissent le cuir chevelu et améliorent la circulation pour des cheveux forts et épais.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6xfcUE": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Extrait de Feuille de Romarin",
+            "heading_tag": "h4",
+            "content": "<p>Alternative naturelle au Minoxidil, efficace contre l’alopécie androgénétique.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -562,7 +574,8 @@
       "block_order": [
         "item_e96DWe",
         "item_aQEAVD",
-        "item_xEzNfX"
+        "item_xEzNfX",
+        "item_6xfcUE"
       ],
       "name": "Multi-column",
       "settings": {
