@@ -240,7 +240,7 @@
             "author": "Philipe L.",
             "content": "Mes cheveux sont plus épais et forts en seulement 4 semaines !",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         },
         "quote_EcGgLR": {
@@ -260,7 +260,7 @@
             "author": "Louis D.",
             "content": "Moins de chute et plus de volume, je suis ravie !",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         },
         "quote_g9KEK4": {
@@ -270,7 +270,7 @@
             "author": "Alain K.",
             "content": "Produit efficace et facile à utiliser, résultats visibles vite.",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         },
         "quote_KfYxax": {
@@ -929,7 +929,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "John S.",
             "title": "Je recommande vivement cette cure",
             "content": "<p>Mes cheveux fins et fragiles se sont transformés en une chevelure épaisse et saine. C’est la première fois depuis des années que je me sens confiante avec mes cheveux.</p>"
@@ -940,7 +940,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Julien H.",
             "title": "Je suis bluffée !",
             "content": "<p>J’ai remarqué une vraie différence dès le premier mois. Mes cheveux tombent beaucoup moins et poussent plus vite, je suis bluffée !</p>"
@@ -973,7 +973,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Claude B.",
             "title": "Le résultat est incroyable !",
             "content": "<p>Le résultat est incroyable ! Mes cheveux sont plus résistants, plus denses et visiblement plus jeunes. Je recommande sans hésiter.</p>"
