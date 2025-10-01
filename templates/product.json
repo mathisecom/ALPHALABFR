@@ -551,6 +551,7 @@
         "item_xEzNfX": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_52.jpg",
             "column_size": "4",
             "title": "Huile de Menthe Poivrée & Extrait de Gingembre",
             "heading_tag": "h4",
@@ -563,6 +564,7 @@
         "item_6xfcUE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_53.jpg",
             "column_size": "4",
             "title": "Extrait de Feuille de Romarin",
             "heading_tag": "h4",
