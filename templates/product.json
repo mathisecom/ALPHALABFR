@@ -514,7 +514,7 @@
       ],
       "name": "Media with text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "alternate_media_position": false,
         "spacing": "none"
       }
@@ -640,8 +640,8 @@
             "subheading": "",
             "title": "",
             "content": "",
-            "link_text": "OBTENIR MAINTENANT",
-            "link_url": "#shopify-section-template--20367070232815__main",
+            "link_text": "",
+            "link_url": "",
             "background": "#1b2c31",
             "background_gradient": "",
             "text_color": "#f2f8f9",
