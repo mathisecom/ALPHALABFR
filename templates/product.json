@@ -1089,28 +1089,28 @@
           "type": "item",
           "settings": {
             "title": "Quelle est la taille des aiguilles ?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "content": "<p>Les aiguilles ultra-fines du système AlphaInfuse mesurent 0,5 mm. Elles sont conçues pour être douces et indolores tout en assurant une diffusion efficace du sérum dans le cuir chevelu.</p><p></p>"
           }
         },
         "item_GKEdRi": {
           "type": "item",
           "settings": {
             "title": "Puis-je l’utiliser avec un cuir chevelu sensible ?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "content": "<p>Oui, les aiguilles en or 24K ultra-fines assurent une application indolore, et la formule est exempte de produits chimiques agressifs, ce qui la rend sûre pour les cuirs chevelus sensibles.</p>"
           }
         },
         "item_TRrw4Y": {
           "type": "item",
           "settings": {
             "title": "Puis-je l’intégrer à ma routine capillaire actuelle ?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "content": "<p>Oui, il peut être utilisé en complément de vos produits capillaires habituels.</p>"
           }
         },
         "item_87c49Y": {
           "type": "item",
           "settings": {
             "title": "Quelle est la liste complète des ingrédients ?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "content": "<p>Menthol, Huile de Menthe Poivrée (Mentha Piperita), Extrait de racine de Ginseng Panax, Extrait de racine d’Anemarrhena Asphodeloides, Extrait de racine de Gingembre (Zingiber Officinale), Huile de Romarin, Extrait de Sésame Noir, Extrait de Racine de Réglisse, Extrait de Racine d’Angelica Polymorpha Sinensis, Acide Citrique, Extrait de Feuille de Platycladus Orientalis, Extrait de Sophora Flavescens, Extrait de Feuille de Biota Orientalis, Extrait de Racine de Polygonum Multiflorum, Extrait d’Eclipta Prostrata, Extrait d’Écorce de Cinchona Pubescens</p>"
           }
         }
       },
