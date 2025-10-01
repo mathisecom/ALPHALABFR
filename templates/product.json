@@ -702,21 +702,98 @@
         "item_dyfQyp": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
+            "title": "Quand vais-je commencer à voir des résultats ?",
             "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "item_Bjxekp": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
+            "title": "Les micro-aiguilles laissent-elles des marques ?",
             "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
         "item_9NwAqG": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
+            "title": "À quelle fréquence dois-je l’utiliser ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_WnKp3Q": {
+          "type": "item",
+          "settings": {
+            "title": "Vais-je perdre mes résultats si j’arrête de l’utiliser ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_VQxaMt": {
+          "type": "item",
+          "settings": {
+            "title": "Pouvez-vous m’en dire plus sur le processus d’application ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_GDmeFE": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce sûr à utiliser ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_btjnq6": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce adapté à tous les types de cheveux ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_nfk4G9": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce sans produits chimiques ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_bgtYWd": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce douloureux ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_PpYQdL": {
+          "type": "item",
+          "settings": {
+            "title": "J’ai essayé de nombreux produits sans succès. Qu’est-ce qui rend le vôtre différent ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_dwUCyD": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la taille des aiguilles ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_GKEdRi": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l’utiliser avec un cuir chevelu sensible ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_TRrw4Y": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l’intégrer à ma routine capillaire actuelle ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_87c49Y": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la liste complète des ingrédients ?",
             "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
         }
@@ -724,7 +801,18 @@
       "block_order": [
         "item_dyfQyp",
         "item_Bjxekp",
-        "item_9NwAqG"
+        "item_9NwAqG",
+        "item_WnKp3Q",
+        "item_VQxaMt",
+        "item_GDmeFE",
+        "item_btjnq6",
+        "item_nfk4G9",
+        "item_bgtYWd",
+        "item_PpYQdL",
+        "item_dwUCyD",
+        "item_GKEdRi",
+        "item_TRrw4Y",
+        "item_87c49Y"
       ],
       "name": "FAQ",
       "settings": {
