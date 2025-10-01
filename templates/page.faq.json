@@ -107,6 +107,56 @@
             "content": "<p>Non, la sensation ressemble à un léger tapotement de l’ongle sur la peau — totalement indolore.</p>",
             "page": ""
           }
+        },
+        "item_Y8R4wG": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "J’ai essayé beaucoup de produits sans succès. Qu’est-ce qui rend le vôtre différent ?",
+            "content": "<p>La plupart des produits échouent car ils ne font que déposer les ingrédients à la surface du cuir chevelu, où ils n’agissent pas. La vraie repousse nécessite de délivrer la formule en profondeur, aux racines, là où la chute de cheveux commence.<br/><br/>Notre technologie de micro-infusion assure une absorption maximale, tandis qu’un puissant mélange d’extraits de racine de réglisse, de sésame noir et de gingembre bloque la DHT, détoxifie le cuir chevelu et réactive les follicules dormants. C’est pourquoi notre produit fonctionne là où d’autres échouent.</p><p></p>",
+            "page": ""
+          }
+        },
+        "item_gTMyUx": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Quelle est la taille des aiguilles ?",
+            "content": "<p>Les aiguilles ultra-fines du système AlphaInfuse mesurent 0,5 mm. Elles sont conçues pour être douces et indolores tout en assurant une diffusion efficace du sérum dans le cuir chevelu.</p>",
+            "page": ""
+          }
+        },
+        "item_86yXgh": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Puis-je l’utiliser avec un cuir chevelu sensible ?",
+            "content": "<p>Oui, les aiguilles en or 24K ultra-fines assurent une application indolore, et la formule est exempte de produits chimiques agressifs, ce qui la rend sûre pour les cuirs chevelus sensibles.</p><p></p>",
+            "page": ""
+          }
+        },
+        "item_3jJhBV": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Puis-je l’intégrer à ma routine capillaire actuelle ?",
+            "content": "<p>Oui, il peut être utilisé en complément de vos produits capillaires habituels.</p>",
+            "page": ""
+          }
+        },
+        "item_mNw7U6": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Liste complète des ingrédients :",
+            "content": "<p>Menthol, Huile de Menthe Poivrée (Mentha Piperita), Extrait de racine de Ginseng Panax, Extrait de racine d’Anemarrhena Asphodeloides, Extrait de racine de Gingembre (Zingiber Officinale), Huile de Romarin, Extrait de Sésame Noir, Extrait de Racine de Réglisse, Extrait de Racine d’Angelica Polymorpha Sinensis, Acide Citrique, Extrait de Feuille de Platycladus Orientalis, Extrait de Sophora Flavescens, Extrait de Feuille de Biota Orientalis, Extrait de Racine de Polygonum Multiflorum, Extrait d’Eclipta Prostrata, Extrait d’Écorce de Cinchona Pubescens</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -118,7 +168,12 @@
         "item_bG8edb",
         "item_whpGDV",
         "item_nWfGWC",
-        "item_ebRPHi"
+        "item_ebRPHi",
+        "item_Y8R4wG",
+        "item_gTMyUx",
+        "item_86yXgh",
+        "item_3jJhBV",
+        "item_mNw7U6"
       ],
       "name": "Accordion content",
       "settings": {
