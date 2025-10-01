@@ -53,12 +53,6 @@
           "disabled": true,
           "settings": {}
         },
-        "liquid_ayrJmP": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"low-stock-container\">\n  <div class=\"low-stock-header\">\n    <span class=\"alert-icon\"></span>\n    <h3 class=\"low-stock-title\">Stock Limité</h3>\n  </div>\n  <p class=\"low-stock-message\">Presque épuisé, commandez vite !</p>\n  <div class=\"progress-wrapper\">\n    <div class=\"progress-bar-container\">\n      <div class=\"progress-bar\" style=\"width: 93%;\"></div>\n    </div>\n    <span class=\"percentage\">93% vendu</span>\n  </div>\n</div>\n\n<style>\n.low-stock-container {\n  margin: 16px 0;\n  padding: 12px;\n  border-radius: 16px;\n  background-color: #fff;\n  box-shadow: 0 2px 6px rgba(0,0,0,0.1);\n  border: 1px solid rgba(0,0,0,0.1);\n}\n\n.low-stock-header {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  margin-bottom: 8px;\n}\n\n.alert-icon {\n  width: 24px;\n  height: 24px;\n  border: 2px solid #dc2626;\n  border-radius: 50%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  color: #dc2626;\n  font-weight: bold;\n}\n\n.alert-icon::after {\n  content: \"!\";\n  font-size: 14px;\n}\n\n.low-stock-title {\n  font-size: 14px;\n  font-weight: 700;\n  margin: 0;\n  color: #000;\n}\n\n.low-stock-message {\n  font-size: 12px; /* un peu plus petit */\n  color: #555;\n  margin-bottom: 10px;\n}\n\n.progress-wrapper {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n}\n\n.progress-bar-container {\n  background-color: #e5e7eb;\n  border-radius: 9999px;\n  height: 10px;\n  flex-grow: 1;\n  overflow: hidden;\n}\n\n.progress-bar {\n  background-color: #dc2626;\n  height: 100%;\n  border-radius: 9999px;\n  transition: width 0.3s ease-in-out;\n}\n\n.percentage {\n  font-size: 13px;\n  font-weight: 500;\n  color: #000;\n  white-space: nowrap;\n}\n</style>"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -68,6 +62,12 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "liquid_ayrJmP": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"low-stock-container\">\n  <div class=\"low-stock-header\">\n    <span class=\"alert-icon\"></span>\n    <h3 class=\"low-stock-title\">Stock Limité</h3>\n  </div>\n  <p class=\"low-stock-message\">Presque épuisé, commandez vite !</p>\n  <div class=\"progress-wrapper\">\n    <div class=\"progress-bar-container\">\n      <div class=\"progress-bar\" style=\"width: 93%;\"></div>\n    </div>\n    <span class=\"percentage\">93% vendu</span>\n  </div>\n</div>\n\n<style>\n.low-stock-container {\n  margin: 16px 0;\n  padding: 12px;\n  border-radius: 16px;\n  background-color: #fff;\n  box-shadow: 0 2px 6px rgba(0,0,0,0.1);\n  border: 1px solid rgba(0,0,0,0.1);\n}\n\n.low-stock-header {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  margin-bottom: 8px;\n}\n\n.alert-icon {\n  width: 24px;\n  height: 24px;\n  border: 2px solid #dc2626;\n  border-radius: 50%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  color: #dc2626;\n  font-weight: bold;\n}\n\n.alert-icon::after {\n  content: \"!\";\n  font-size: 14px;\n}\n\n.low-stock-title {\n  font-size: 14px;\n  font-weight: 700;\n  margin: 0;\n  color: #000;\n}\n\n.low-stock-message {\n  font-size: 12px; /* un peu plus petit */\n  color: #555;\n  margin-bottom: 10px;\n}\n\n.progress-wrapper {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n}\n\n.progress-bar-container {\n  background-color: #e5e7eb;\n  border-radius: 9999px;\n  height: 10px;\n  flex-grow: 1;\n  overflow: hidden;\n}\n\n.progress-bar {\n  background-color: #dc2626;\n  height: 100%;\n  border-radius: 9999px;\n  transition: width 0.3s ease-in-out;\n}\n\n.percentage {\n  font-size: 13px;\n  font-weight: 500;\n  color: #000;\n  white-space: nowrap;\n}\n</style>"
           }
         },
         "liquid_yQHeRW": {
@@ -127,8 +127,8 @@
         "liquid_xAXtTL",
         "variant_picker",
         "quantity_selector",
-        "liquid_ayrJmP",
         "buy_buttons",
+        "liquid_ayrJmP",
         "liquid_yQHeRW",
         "liquid_LUgmA9",
         "liquid_BkbmDc",
