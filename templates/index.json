@@ -598,6 +598,13 @@
             "title": "J’ai essayé beaucoup de produits sans succès. Qu’est-ce qui rend le vôtre différent ?",
             "content": "<p>La plupart des produits échouent car ils ne font que déposer les ingrédients à la surface du cuir chevelu, où ils n’agissent pas. La vraie repousse nécessite de délivrer la formule en profondeur, aux racines, là où la chute de cheveux commence.<br/><br/>Notre technologie de micro-infusion assure une absorption maximale, tandis qu’un puissant mélange d’extraits de racine de réglisse, de sésame noir et de gingembre bloque la DHT, détoxifie le cuir chevelu et réactive les follicules dormants. C’est pourquoi notre produit fonctionne là où d’autres échouent.</p>"
           }
+        },
+        "item_YhHe8P": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la taille des aiguilles ?",
+            "content": "<p>Les aiguilles ultra-fines du système AlphaInfuse mesurent 0,5 mm. Elles sont conçues pour être douces et indolores tout en assurant une diffusion efficace du sérum dans le cuir chevelu.</p>"
+          }
         }
       },
       "block_order": [
@@ -608,7 +615,8 @@
         "item_pPdUWf",
         "item_FYJebe",
         "item_6mhQrn",
-        "item_XKU3nJ"
+        "item_XKU3nJ",
+        "item_YhHe8P"
       ],
       "name": "FAQ",
       "settings": {
