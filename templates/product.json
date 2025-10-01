@@ -755,6 +755,7 @@
         "item_bayTxq": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_20.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -767,6 +768,7 @@
         "item_qRnatd": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_21.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -779,6 +781,7 @@
         "item_JF9a6L": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_22.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
