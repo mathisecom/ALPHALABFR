@@ -577,6 +577,13 @@
             "title": "Comment se déroule l’application ?",
             "content": "<p>L’application est rapide : moins d’une minute. Appliquez simplement le produit sur les zones concernées et laissez agir.<br/><br/>Totalement indolore, sans marques ni rougeurs. Les aiguilles ultra-fines de 0,5 mm assurent un usage sûr et doux.</p>"
           }
+        },
+        "item_FYJebe": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce sûr ?",
+            "content": "<p>L’application est rapide : moins d’une minute. Appliquez simplement le produit sur les zones concernées et laissez agir.<br/><br/>Totalement indolore, sans marques ni rougeurs. Les aiguilles ultra-fines de 0,5 mm assurent un usage sûr et doux.</p>"
+          }
         }
       },
       "block_order": [
@@ -584,7 +591,8 @@
         "item_Xytd67",
         "item_63GXqy",
         "item_XmYm4m",
-        "item_pPdUWf"
+        "item_pPdUWf",
+        "item_FYJebe"
       ],
       "name": "FAQ",
       "settings": {
