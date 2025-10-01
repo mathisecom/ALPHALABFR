@@ -304,9 +304,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "",
-        "title": "Featured content",
-        "content": "",
+        "subheading": "Formulée Avec Des Ingrédients De Qualité",
+        "title": "",
+        "content": "<h1>Ingrédients Actifs</h1>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
