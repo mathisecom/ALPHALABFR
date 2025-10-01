@@ -563,12 +563,20 @@
             "title": "À quelle fréquence doit-on l’utiliser ?",
             "content": "<p>Pour de meilleurs résultats, utilisez-le une fois par semaine. Cela laisse le temps aux racines de réagir et de se régénérer entre les séances. Notre formule très concentrée, combinée au système de micro-infusion, délivre les ingrédients directement aux racines — là où la vraie repousse se produit.</p>"
           }
+        },
+        "item_XmYm4m": {
+          "type": "item",
+          "settings": {
+            "title": "Perdra‑t‑on les résultats si on arrête ?",
+            "content": "<p>Une fois les niveaux de DHT réduits, le cuir chevelu détoxifié et de nouveaux cheveux poussés, il faudra plusieurs mois, voire années, pour que la DHT s’accumule à nouveau.</p>"
+          }
         }
       },
       "block_order": [
         "item_UJyGtr",
         "item_Xytd67",
-        "item_63GXqy"
+        "item_63GXqy",
+        "item_XmYm4m"
       ],
       "name": "FAQ",
       "settings": {
