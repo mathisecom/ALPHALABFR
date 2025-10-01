@@ -525,6 +525,7 @@
         "item_e96DWe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_50.jpg",
             "column_size": "4",
             "title": "Extrait d’Eclipta Prostrata",
             "heading_tag": "h4",
@@ -537,6 +538,7 @@
         "item_aQEAVD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_51.jpg",
             "column_size": "4",
             "title": "Panax Ginseng",
             "heading_tag": "h4",
