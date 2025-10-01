@@ -242,7 +242,8 @@
         "item_UEE9nQ": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Titre_50.jpg",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -254,7 +255,8 @@
         "item_DgxtCx": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Titre_51.jpg",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -266,7 +268,21 @@
         "item_H9m7re": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Titre_52.jpg",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RbEa9N": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_54.jpg",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -279,7 +295,8 @@
       "block_order": [
         "item_UEE9nQ",
         "item_DgxtCx",
-        "item_H9m7re"
+        "item_H9m7re",
+        "item_RbEa9N"
       ],
       "name": "Multi-column",
       "settings": {
