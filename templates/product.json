@@ -399,9 +399,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Extrait d’Eclipta Prostrata",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Stimule la régénération des follicules et prolonge le cycle de croissance des cheveux, surpassant même le Minoxidil.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "button"
@@ -411,9 +411,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Panax Ginseng",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Élimine le DHT pour favoriser la repousse de cheveux sains.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -423,9 +423,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Huile de Menthe Poivrée & Extrait de Gingembre",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Nourrissent le cuir chevelu et améliorent la circulation pour des cheveux forts et épais.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
