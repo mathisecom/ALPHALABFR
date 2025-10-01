@@ -509,6 +509,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Titre_14.png",
             "mobile_icon_width": 52,
             "icon_width": 52,
             "icon_background_type": "circle",
@@ -526,7 +527,7 @@
             "mobile_icon_width": 52,
             "icon_width": 52,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#f2f8f9",
             "icon_color": "",
             "title": "Application rapide & indolore",
             "content": "<p>1 minute par jour suffit pour transformer ta chevelure.</p>"
