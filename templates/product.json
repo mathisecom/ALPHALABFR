@@ -392,6 +392,65 @@
         "spacing": "none"
       }
     },
+    "multi_column_9CYhRg": {
+      "type": "multi-column",
+      "blocks": {
+        "item_pexp67": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Extrait d’Eclipta Prostrata",
+            "heading_tag": "h4",
+            "content": "<p>Stimule la régénération des follicules et prolonge le cycle de croissance des cheveux, surpassant même le Minoxidil.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "button"
+          }
+        },
+        "item_nzweyD": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Panax Ginseng",
+            "heading_tag": "h4",
+            "content": "<p>Élimine le DHT pour favoriser la repousse de cheveux sains.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_t9YXi6": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Huile de Menthe Poivrée & Extrait de Gingembre",
+            "heading_tag": "h4",
+            "content": "<p>Nourrissent le cuir chevelu et améliorent la circulation pour des cheveux forts et épais.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_pexp67",
+        "item_nzweyD",
+        "item_t9YXi6"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "Une Application Simple en 3 Étapes.",
+        "title": "Comment ca Fonctionne ?",
+        "content": "",
+        "background": "#f2f8f9",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "scrolling_text_3TmHLJ": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -1079,6 +1138,7 @@
     "press_H97AjL",
     "logo_list_9ptVXL",
     "media_with_text_KgF8Fq",
+    "multi_column_9CYhRg",
     "scrolling_text_3TmHLJ",
     "text_with_icons_4U7iTg",
     "media_with_text_khnryP",
