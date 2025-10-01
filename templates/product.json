@@ -935,6 +935,17 @@
             "content": "<p>Mes cheveux fins et fragiles se sont transformés en une chevelure épaisse et saine. C’est la première fois depuis des années que je me sens confiante avec mes cheveux.</p>"
           }
         },
+        "testimonial_fmK3RP": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Julien H.",
+            "title": "Je suis bluffée !",
+            "content": "<p>J’ai remarqué une vraie différence dès le premier mois. Mes cheveux tombent beaucoup moins et poussent plus vite, je suis bluffée !</p>"
+          }
+        },
         "testimonial_Gzigp8": {
           "type": "testimonial",
           "settings": {
@@ -967,25 +978,14 @@
             "title": "Le résultat est incroyable !",
             "content": "<p>Le résultat est incroyable ! Mes cheveux sont plus résistants, plus denses et visiblement plus jeunes. Je recommande sans hésiter.</p>"
           }
-        },
-        "testimonial_fmK3RP": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Julien H.",
-            "title": "Je suis bluffée !",
-            "content": "<p>J’ai remarqué une vraie différence dès le premier mois. Mes cheveux tombent beaucoup moins et poussent plus vite, je suis bluffée !</p>"
-          }
         }
       },
       "block_order": [
         "testimonial_UeUnCf",
+        "testimonial_fmK3RP",
         "testimonial_Gzigp8",
         "testimonial_cypCym",
-        "testimonial_qghQXk",
-        "testimonial_fmK3RP"
+        "testimonial_qghQXk"
       ],
       "name": "Testimonials",
       "settings": {
