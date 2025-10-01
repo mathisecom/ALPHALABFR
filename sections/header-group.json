@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_GyCarp": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE D'AUTOMNE : -50% DE RÉDUCTION",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
@@ -27,19 +34,12 @@
             "text": "Paiement 100% Sécurisé",
             "url": ""
           }
-        },
-        "message_GyCarp": {
-          "type": "message",
-          "settings": {
-            "text": "OFFRE D'AUTOMNE : -50% DE RÉDUCTION",
-            "url": ""
-          }
         }
       },
       "block_order": [
+        "message_GyCarp",
         "message",
-        "message_xzjbdL",
-        "message_GyCarp"
+        "message_xzjbdL"
       ],
       "settings": {
         "enable_sticky": false,
