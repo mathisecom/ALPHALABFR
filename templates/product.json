@@ -431,6 +431,7 @@
         "item_t9YXi6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_18.png",
             "column_size": "3",
             "title": "Laisser agir et répéter",
             "heading_tag": "h4",
