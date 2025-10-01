@@ -633,7 +633,7 @@
           "type": "image",
           "settings": {
             "media_width": 50,
-            "media_position": "end",
+            "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
