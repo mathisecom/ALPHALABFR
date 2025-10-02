@@ -11,12 +11,27 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "content_width": "80ch"
+      }
+    },
+    "custom_liquid_6zPFnx": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"octane-ai-quiz \" data-quiz-id=\"ZAeGfzIU2M43tvF6\" data-embed-type=\"fullscreen\"  >\n    \n</div>\n<script src=\"https://app.octaneai.com/47q4ynkugwzumjkc/quiz.js\" defer></script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "custom_liquid_6zPFnx"
   ]
 }
