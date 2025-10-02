@@ -24,18 +24,25 @@
     },
     "gp_section_587005476080714602": {
       "settings": {
-        "checksum": "aa2f2de016f69401a349c69f625e349788f5d8ad8f9be133e4b7350ad611d8c7_1_1_1_0__1",
+        "checksum": "edbee24047bbdda2c35ef61cadcf9b7f9485b776fedc53c1416a52ea43fdbc2b_1_1_1_0__1",
         "ggGOVAaE8Ly_text": "<p><span style=\"font-size:24px;\"><strong>Vous n’êtes pas seul.</strong></span></p><p><br><span style=\"font-size:16px;\">86 % des hommes sont confrontés à la frustration des cheveux clairsemés, d’une ligne frontale qui&nbsp;</span></p><p><span style=\"font-size:16px;\">recule et de zones dégarnies embarrassantes, parfois dès la fin de la vingtaine…</span></p><p>&nbsp;</p><p><span style=\"font-size:16px;\">…Cette angoisse quotidienne de voir sa ligne de cheveux reculer dans le miroir, de se sentir mal à l’aise face aux mèches qui s’affinent et au cuir chevelu de plus en plus visible, et d’observer jour après jour la perte de volume et de densité.</span></p>",
         "ggJkm9f-3aX_text": "<strong>Ne laissez pas la chute de cheveux&nbsp;</strong><br><strong>vous priver de votre confiance.</strong>",
         "ggfWEVOdxd0_text": "<p><span style=\"font-size:16px;\">Les principaux experts en perte de cheveux ont identifié la cause numéro 1 de la chute des cheveux : <strong>La DHT (dihydrotestostérone)</strong>, une hormone qui attaque silencieusement vos follicules pileux en ce moment même, pendant que vous lisez ces lignes.</span></p><p>&nbsp;</p><p><span style=\"font-size:16px;\">Elle crée un <strong>« effet d’étranglement »</strong>, empêchant les nutriments essentiels d’atteindre vos follicules et les affaiblissant progressivement. Privés de ce dont ils ont besoin pour survivre, vos follicules rétrécissent jour après jour jusqu’à disparaître complètement. Ce processus s’accompagne de <strong>signaux d’alerte quotidiens</strong> : chute de cheveux, recul de la ligne capillaire, cheveux clairsemés et zones de cuir chevelu visibles.</span></p>",
         "ggqZmhPjorv_text": "<span style=\"font-size:30px;\"><strong>La recherche&nbsp;scientifique&nbsp;révèle&nbsp;la véritable cause&nbsp;de la perte de cheveux</strong></span>"
       },
       "type": "gp-section-587005476080714602"
+    },
+    "gp_section_587007949814104938": {
+      "settings": {
+        "checksum": "55157b758d19af522f8b9147559964daa74180720ce433b71e9dbe880597de3f_1_1_1_0__1"
+      },
+      "type": "gp-section-587007949814104938"
     }
   },
   "order": [
     "gp_section_587004892770468522",
-    "gp_section_587005476080714602"
+    "gp_section_587005476080714602",
+    "gp_section_587007949814104938"
   ],
   "layout": "theme.gempages.blank"
 }
