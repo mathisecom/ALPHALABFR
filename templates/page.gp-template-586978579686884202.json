@@ -32,9 +32,19 @@
         "section_preload": "true"
       },
       "type": "gp-section-586978596782867114"
+    },
+    "gp_section_586980934654362474": {
+      "settings": {
+        "checksum": "452f807288d58a3ce5ad524fa2371b41170c33652c8d900ba67a4fddb3f8598c_1_1_1_0__1",
+        "ggcdS7UTPkJ_text": "DES CHEVEUX PARFAITS, UNE VIE MEILLEURE.",
+        "ggdpAOSG7-V_label": "<p>ACHETER MAINTENANT</p>",
+        "ggoeadkDeWT_text": "ALPHALAB INFUSE."
+      },
+      "type": "gp-section-586980934654362474"
     }
   },
   "order": [
-    "gp_section_586978596782867114"
+    "gp_section_586978596782867114",
+    "gp_section_586980934654362474"
   ]
 }
