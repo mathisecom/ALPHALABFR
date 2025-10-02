@@ -262,6 +262,7 @@
         },
         "quote_qCYEdw": {
           "type": "quote",
+          "disabled": true,
           "settings": {
             "logo_width": 100,
             "author": "Louis D.",
@@ -717,7 +718,6 @@
         "image_JJCdgE": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Titre_55.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
