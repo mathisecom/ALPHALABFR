@@ -823,7 +823,6 @@
         "subheading_KrTn98",
         "heading_fUz3eB"
       ],
-      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -924,7 +923,6 @@
         "item_HfXD7C",
         "item_z7xUrf"
       ],
-      "disabled": true,
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
@@ -1007,7 +1005,6 @@
         "testimonial_cypCym",
         "testimonial_qghQXk"
       ],
-      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "full_width": true,
@@ -1170,7 +1167,6 @@
     }
   },
   "order": [
-    "main",
     "multi_column_fwgfmR",
     "press_H97AjL",
     "logo_list_9ptVXL",
@@ -1186,6 +1182,7 @@
     "rich_text_xBpJ9t",
     "image_link_blocks_bqAKRF",
     "testimonials_nTGNFw",
+    "main",
     "faq_7eBfbD"
   ]
 }
