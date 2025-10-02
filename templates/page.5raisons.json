@@ -229,15 +229,23 @@
     "featured_product_WtALVL": {
       "type": "featured-product",
       "blocks": {
+        "liquid_WYdxYD": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title_h8Gxd9": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "badges_watyDf": {
-          "type": "badges",
-          "settings": {}
+        "liquid_QCxfLw": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         },
         "price_gjeXPE": {
           "type": "price",
@@ -276,8 +284,9 @@
         }
       },
       "block_order": [
+        "liquid_WYdxYD",
         "title_h8Gxd9",
-        "badges_watyDf",
+        "liquid_QCxfLw",
         "price_gjeXPE",
         "variant_picker_9XfWBU",
         "quantity_selector_zPTYHF",
