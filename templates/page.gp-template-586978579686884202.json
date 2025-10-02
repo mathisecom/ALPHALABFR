@@ -55,19 +55,12 @@
         "section_preload": "true"
       },
       "type": "gp-section-586999427760129003"
-    },
-    "gp_section_587008551948386873": {
-      "settings": {
-        "checksum": "ca8501f521f7c82905d834d1a7cf2dba8f434842027e7fe129433accac782109_1_1_1_0__1"
-      },
-      "type": "gp-section-587008551948386873"
     }
   },
   "order": [
     "gp_section_586999427760129003",
     "gp_section_586978596782867114",
-    "gp_section_586980934654362474",
-    "gp_section_587008551948386873"
+    "gp_section_586980934654362474"
   ],
   "layout": "theme.gempages.blank"
 }
