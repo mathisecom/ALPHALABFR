@@ -218,12 +218,23 @@
             "show_rating": true,
             "rating": 5
           }
+        },
+        "quote_A8qFfD": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "- Dylan, 48 ans, Bretagne",
+            "content": "Mon volume capillaire est revenu progressivement. Aujourd’hui, mes cheveux paraissent plus épais, plus brillants et je me sens rajeuni.",
+            "show_rating": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
         "quote_MNpfwK",
         "quote_mHcHqh",
-        "quote_8a8g9j"
+        "quote_8a8g9j",
+        "quote_A8qFfD"
       ],
       "name": "Press",
       "settings": {
