@@ -1,0 +1,677 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_PC_8.jpg",
+            "mobile_image": "shopify://shop_images/BANNER_MOBILE_27.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "shopify://products/alphalab-infuse",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "logo_list_GKiUxY": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_RCeGGp": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025.png",
+            "logo_width": 90,
+            "link": ""
+          }
+        },
+        "logo_mWWRkq": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_1.png",
+            "logo_width": 90,
+            "link": ""
+          }
+        },
+        "logo_K49wTM": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_2.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_6zeKUQ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_3.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_RCeGGp",
+        "logo_mWWRkq",
+        "logo_K49wTM",
+        "logo_6zeKUQ"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "<p><strong>DÉJA VU SUR</strong></p>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
+    "multi_column_xWdGPa": {
+      "type": "multi-column",
+      "blocks": {
+        "item_g3nadw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2025-03-20T161232.693.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VPfG6E": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_38.jpg",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gqVpb9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_37.jpg",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hkArCN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_39.jpg",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_g3nadw",
+        "item_VPfG6E",
+        "item_gqVpb9",
+        "item_hkArCN"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "+3,000 Hommes Conquis Par AlphaLAB",
+        "title": "Vos Cheveux, Avant & Après",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "scrolling_text_ggKbMJ": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "La Solution Rapide Contre la Perte de Cheveux.",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#1b2c31",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
+    "media_with_text_gyQJQg": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_MB96XR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Titre_57.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Retrouver une chevelure dense et pleine de vitalité",
+            "content": "<p><strong>Ne laissez plus la perte de cheveux vous voler votre confiance.</strong></p><p>Grâce à la technologie <strong>Micro-Infusion</strong>, <strong>ALPHALAB™</strong> agit directement à la racine du problème en neutralisant le DHT et en stimulant la repousse naturelle.</p><p><strong>Résultat :</strong> des cheveux plus épais, plus forts et visiblement plus jeunes en seulement quelques semaines.</p>",
+            "link_text": "DÉCOUVRIR",
+            "link_url": "shopify://products/alphalab-infuse",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1d2b32",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_MB96XR"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "multi_column_RkBAqU": {
+      "type": "multi-column",
+      "blocks": {
+        "item_UEE9nQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_50.jpg",
+            "column_size": "4",
+            "title": "Extrait d’Eclipta Prostrata",
+            "heading_tag": "h4",
+            "content": "<p>Stimule la régénération des follicules et prolonge le cycle de croissance des cheveux, surpassant même le Minoxidil.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DgxtCx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_51.jpg",
+            "column_size": "4",
+            "title": "Panax Ginseng",
+            "heading_tag": "h4",
+            "content": "<p>Élimine le DHT pour favoriser la repousse de cheveux sains.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_H9m7re": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_52.jpg",
+            "column_size": "4",
+            "title": "Huile de Menthe Poivrée & Extrait de Gingembre",
+            "heading_tag": "h4",
+            "content": "<p>Nourrissent le cuir chevelu et améliorent la circulation pour des cheveux forts et épais.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RbEa9N": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_54.jpg",
+            "column_size": "4",
+            "title": "Extrait de Feuille de Romarin",
+            "heading_tag": "h4",
+            "content": "<p>Alternative naturelle au Minoxidil, efficace contre l’alopécie androgénétique.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_UEE9nQ",
+        "item_DgxtCx",
+        "item_H9m7re",
+        "item_RbEa9N"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "Formulée Avec Des Ingrédients De Qualité",
+        "title": "",
+        "content": "<h1>Ingrédients Actifs</h1>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_nG6afC": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_CPNErN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Titre_55.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Recommandé par les Experts",
+            "content": "<p>Les professionnels de la santé capillaire font confiance à <strong>AlphaLAB™</strong> pour son efficacité cliniquement prouvée.</p>",
+            "link_text": "DÉCOUVRIR",
+            "link_url": "shopify://products/alphalab-infuse",
+            "background": "#1d2b32",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#f2f8f9",
+            "button_text_color": "#1d2b32"
+          }
+        }
+      },
+      "block_order": [
+        "image_CPNErN"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "rich_text_npkNmG": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_n8EAbL": {
+          "type": "subheading",
+          "settings": {
+            "text": "ILS TÉMOIGNE DE L'ÉFFICACITÉ"
+          }
+        },
+        "heading_dP8hD4": {
+          "type": "heading",
+          "settings": {
+            "text": "+3,000 Hommes Conquis",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_n8EAbL",
+        "heading_dP8hD4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_LU8cQt": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_iD8ktz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_19.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Gq4kkb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_20.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Ebymzp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_21.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_VNpqek": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_22.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_4RBECj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_23.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_iD8ktz",
+        "item_Gq4kkb",
+        "item_Ebymzp",
+        "item_VNpqek",
+        "item_4RBECj"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "testimonials_ExkWHg": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_J8ExhM": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Julien H.",
+            "title": "Je recommande vivement cette cure",
+            "content": "<p>Mes cheveux fins et fragiles se sont transformés en une chevelure épaisse et saine. C’est la première fois depuis des années que je me sens confiante avec mes cheveux.</p>"
+          }
+        },
+        "testimonial_M7tz34": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Je suis bluffée !",
+            "content": "<p>J’ai remarqué une vraie différence dès le premier mois. Mes cheveux tombent beaucoup moins et poussent plus vite, je suis vraiment impressionnée !<br/></p>"
+          }
+        },
+        "testimonial_pfgwXg": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Cédric V.",
+            "title": "Enfin une chevelure pleine de vie !",
+            "content": "<p>Après seulement 6 semaines, mes cheveux sont beaucoup plus épais et forts. Je retrouve enfin une chevelure pleine de vitalité !<br/></p>"
+          }
+        },
+        "testimonial_bcR6aF": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Claude B.",
+            "title": "Un changement que je n’espérais plus",
+            "content": "<p>Mes zones clairsemées se remplissent petit à petit, et mes cheveux ont retrouvé brillance et vitalité. Je ne pensais pas voir un tel résultat.<br/></p>"
+          }
+        },
+        "testimonial_xt6A4b": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Sophie L.",
+            "title": "Le résultat est incroyable !",
+            "content": "<p>Mes cheveux sont plus résistants, plus denses et visiblement plus jeunes. Je recommande ce traitement sans hésitation.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_J8ExhM",
+        "testimonial_M7tz34",
+        "testimonial_pfgwXg",
+        "testimonial_bcR6aF",
+        "testimonial_xt6A4b"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "#f2f8f9",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "faq_NKRrzd": {
+      "type": "faq",
+      "blocks": {
+        "item_UJyGtr": {
+          "type": "item",
+          "settings": {
+            "title": "Quand vais-je commencer à voir des résultats ?",
+            "content": "<p>De nombreux utilisateurs constatent une amélioration notable de la texture et de la croissance des cheveux après 3 à 5 semaines d’utilisation régulière. Les résultats peuvent varier selon les individus.</p>"
+          }
+        },
+        "item_Xytd67": {
+          "type": "item",
+          "settings": {
+            "title": "Les aiguilles laissent-elles des marques ?",
+            "content": "<p>Non, le produit ne laisse ni marques ni rougeurs. Les aiguilles sont ultra-fines, de 0,5 mm, conçues pour être douces et indolores tout en assurant une diffusion efficace du sérum dans le cuir chevelu.</p>"
+          }
+        },
+        "item_63GXqy": {
+          "type": "item",
+          "settings": {
+            "title": "À quelle fréquence doit-on l’utiliser ?",
+            "content": "<p>Pour de meilleurs résultats, utilisez-le une fois par semaine. Cela laisse le temps aux racines de réagir et de se régénérer entre les séances. Notre formule très concentrée, combinée au système de micro-infusion, délivre les ingrédients directement aux racines — là où la vraie repousse se produit.</p>"
+          }
+        },
+        "item_XmYm4m": {
+          "type": "item",
+          "settings": {
+            "title": "Perdra‑t‑on les résultats si on arrête ?",
+            "content": "<p>Une fois les niveaux de DHT réduits, le cuir chevelu détoxifié et de nouveaux cheveux poussés, il faudra plusieurs mois, voire années, pour que la DHT s’accumule à nouveau.</p>"
+          }
+        },
+        "item_pPdUWf": {
+          "type": "item",
+          "settings": {
+            "title": "Comment se déroule l’application ?",
+            "content": "<p>L’application est rapide : moins d’une minute. Appliquez simplement le produit sur les zones concernées et laissez agir.<br/><br/>Totalement indolore, sans marques ni rougeurs. Les aiguilles ultra-fines de 0,5 mm assurent un usage sûr et doux.</p>"
+          }
+        },
+        "item_FYJebe": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce sûr ?",
+            "content": "<p>Oui, il est formulé uniquement avec des ingrédients naturels et de haute qualité, sans produits chimiques synthétiques.</p>"
+          }
+        },
+        "item_6mhQrn": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce douloureux ?",
+            "content": "<p>Non, la sensation ressemble à un léger tapotement de l’ongle sur la peau — totalement indolore.</p>"
+          }
+        },
+        "item_XKU3nJ": {
+          "type": "item",
+          "settings": {
+            "title": "J’ai essayé beaucoup de produits sans succès. Qu’est-ce qui rend le vôtre différent ?",
+            "content": "<p>La plupart des produits échouent car ils ne font que déposer les ingrédients à la surface du cuir chevelu, où ils n’agissent pas. La vraie repousse nécessite de délivrer la formule en profondeur, aux racines, là où la chute de cheveux commence.<br/><br/>Notre technologie de micro-infusion assure une absorption maximale, tandis qu’un puissant mélange d’extraits de racine de réglisse, de sésame noir et de gingembre bloque la DHT, détoxifie le cuir chevelu et réactive les follicules dormants. C’est pourquoi notre produit fonctionne là où d’autres échouent.</p>"
+          }
+        },
+        "item_YhHe8P": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la taille des aiguilles ?",
+            "content": "<p>Les aiguilles ultra-fines du système AlphaInfuse mesurent 0,5 mm. Elles sont conçues pour être douces et indolores tout en assurant une diffusion efficace du sérum dans le cuir chevelu.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_UJyGtr",
+        "item_Xytd67",
+        "item_63GXqy",
+        "item_XmYm4m",
+        "item_pPdUWf",
+        "item_FYJebe",
+        "item_6mhQrn",
+        "item_XKU3nJ",
+        "item_YhHe8P"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Questions Fréquentes",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "Temps de réponse moyen : 24 h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "logo_list_GKiUxY",
+    "multi_column_xWdGPa",
+    "scrolling_text_ggKbMJ",
+    "media_with_text_gyQJQg",
+    "multi_column_RkBAqU",
+    "media_with_text_nG6afC",
+    "rich_text_npkNmG",
+    "image_link_blocks_LU8cQt",
+    "testimonials_ExkWHg",
+    "faq_NKRrzd"
+  ]
+}
