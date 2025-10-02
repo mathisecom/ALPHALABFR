@@ -208,11 +208,22 @@
             "show_rating": true,
             "rating": 5
           }
+        },
+        "quote_8a8g9j": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "- Alain, 44 ans, Alsace",
+            "content": "J’étais sceptique au départ, mais au bout de 3 mois, mes cheveux ont vraiment gagné en densité. Je n’ai plus honte de les coiffer.",
+            "show_rating": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
         "quote_MNpfwK",
-        "quote_mHcHqh"
+        "quote_mHcHqh",
+        "quote_8a8g9j"
       ],
       "name": "Press",
       "settings": {
