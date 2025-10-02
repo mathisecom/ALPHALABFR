@@ -198,54 +198,10 @@
             "show_rating": true,
             "rating": 5
           }
-        },
-        "quote_RqJFrd": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
-          }
-        },
-        "quote_nTf9NT": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
-          }
-        },
-        "quote_WEzhNb": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 5
-          }
-        },
-        "quote_YRAkRX": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
-          }
         }
       },
       "block_order": [
-        "quote_MNpfwK",
-        "quote_RqJFrd",
-        "quote_nTf9NT",
-        "quote_WEzhNb",
-        "quote_YRAkRX"
+        "quote_MNpfwK"
       ],
       "name": "Press",
       "settings": {
