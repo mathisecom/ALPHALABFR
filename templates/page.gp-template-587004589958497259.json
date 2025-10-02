@@ -10,24 +10,24 @@
 {
   "sections": {
     "gp_section_587004892770468522": {
-      "type": "gp-section-587004892770468522",
       "settings": {
-        "section_preload": "true",
         "checksum": "1ab24b930365ac7c2cbcd8ca9131553af5f349cffdde0482efb8e02ad03d400e_1_1_1_0__1",
-        "ggRoFD8u501_text": "<p>VOUS PERDEZ VOS CHEVEUX ?</p>",
-        "ggCz16W-a84_text": "<span style=\"font-size:32px;\">Stoppez la chute et retrouvez des cheveux plus épais en quelques semaines seulement.</span>",
         "gg0_zuLGC3B_childItem_0": "Your custom text goes here",
         "gg0_zuLGC3B_childItem_1": "Your custom text goes here",
         "gg0_zuLGC3B_childItem_2": "Your custom text goes here",
-        "gg0_zuLGC3B_childItem_3": "Your custom text goes here "
-      }
+        "gg0_zuLGC3B_childItem_3": "Your custom text goes here ",
+        "ggCz16W-a84_text": "<span style=\"font-size:32px;\">Stoppez la chute et retrouvez des cheveux plus épais en quelques semaines seulement.</span>",
+        "ggRoFD8u501_text": "<p>VOUS PERDEZ VOS CHEVEUX ?</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-587004892770468522"
     },
     "gp_section_587005476080714602": {
-      "type": "gp-section-587005476080714602",
       "settings": {
         "checksum": "291dd8511fe039c7c129f89ae3aaba8ce124ef83fa9f6554cc92fcd90cd4cd83_1_1_1_0__1",
         "ggJkm9f-3aX_text": "<strong>Ne laissez pas la chute de cheveux&nbsp;</strong><br><strong>vous priver de votre confiance.</strong>"
-      }
+      },
+      "type": "gp-section-587005476080714602"
     }
   },
   "order": [
