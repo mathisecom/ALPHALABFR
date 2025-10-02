@@ -189,6 +189,16 @@
     "press_3zEFmR": {
       "type": "press",
       "blocks": {
+        "quote_MNpfwK": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "- Julien, 42 ans, Paris",
+            "content": "Après 3 mois, ma ligne de cheveux s’est épaissie et les zones clairsemées sont devenues presque invisibles. Aujourd’hui, mes cheveux sont plus denses et je me sens plus jeune.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
         "quote_mHcHqh": {
           "type": "quote",
           "settings": {
@@ -218,23 +228,13 @@
             "show_rating": true,
             "rating": 5
           }
-        },
-        "quote_MNpfwK": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "- Julien, 42 ans, Paris",
-            "content": "En 3 mois, mes cheveux sont plus denses et les zones clairsemées presque invisibles. Aujourd’hui, mes cheveux sont plus denses et je me sens plus jeune.",
-            "show_rating": true,
-            "rating": 5
-          }
         }
       },
       "block_order": [
+        "quote_MNpfwK",
         "quote_mHcHqh",
         "quote_8a8g9j",
-        "quote_A8qFfD",
-        "quote_MNpfwK"
+        "quote_A8qFfD"
       ],
       "name": "Press",
       "settings": {
