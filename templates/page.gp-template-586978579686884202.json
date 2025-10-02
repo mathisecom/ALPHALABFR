@@ -48,9 +48,17 @@
         "ggpXRT1iryK_text": "<p><span style=\"font-size:12px;\">Paiement&nbsp;</span></p><p><span style=\"font-size:12px;\">100% Sécurisés</span></p>"
       },
       "type": "gp-section-586980934654362474"
+    },
+    "gp_section_586999427760129003": {
+      "settings": {
+        "checksum": "fc9bd381dc3f9c1d16574464cff580dc4db9a68a8e477a177d01a8e8184b2983_1_1_1_0__1",
+        "section_preload": "true"
+      },
+      "type": "gp-section-586999427760129003"
     }
   },
   "order": [
+    "gp_section_586999427760129003",
     "gp_section_586978596782867114",
     "gp_section_586980934654362474"
   ],
