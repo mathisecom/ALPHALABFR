@@ -186,6 +186,80 @@
         "text_color": ""
       }
     },
+    "press_3zEFmR": {
+      "type": "press",
+      "blocks": {
+        "quote_MNpfwK": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_RqJFrd": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_nTf9NT": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_WEzhNb": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_YRAkRX": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_MNpfwK",
+        "quote_RqJFrd",
+        "quote_nTf9NT",
+        "quote_WEzhNb",
+        "quote_YRAkRX"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "scrolling_text_ggKbMJ": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -665,6 +739,7 @@
     "slideshow",
     "logo_list_GKiUxY",
     "multi_column_xWdGPa",
+    "press_3zEFmR",
     "scrolling_text_ggKbMJ",
     "media_with_text_gyQJQg",
     "multi_column_RkBAqU",
