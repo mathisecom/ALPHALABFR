@@ -9,6 +9,19 @@
  */
 {
   "sections": {
+    "custom_liquid_jmEAPU": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"octane-ai-quiz \" data-quiz-id=\"ZAeGfzIU2M43tvF6\" data-embed-type=\"fullscreen\"  >\n    \n</div>\n<script src=\"https://app.octaneai.com/47q4ynkugwzumjkc/quiz.js\" defer></script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_fwgfmR": {
       "type": "multi-column",
       "blocks": {
@@ -1205,6 +1218,7 @@
     }
   },
   "order": [
+    "custom_liquid_jmEAPU",
     "multi_column_fwgfmR",
     "press_H97AjL",
     "logo_list_9ptVXL",
