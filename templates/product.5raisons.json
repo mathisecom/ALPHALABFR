@@ -569,6 +569,47 @@
         "spacing": "none"
       }
     },
+    "rich_text_eg6wKp": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_f3TXbc": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_ghgmAj": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_MYP6pE": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_f3TXbc",
+        "heading_ghgmAj",
+        "richtext_MYP6pE"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#000000"
+      }
+    },
     "media_with_text_dfDLx3": {
       "type": "media-with-text",
       "blocks": {
@@ -582,12 +623,12 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<h4><strong>5 RAISONS POUR LESQUELLES ALPHALAB™ RÉACTIVE INSTANTANÉMENT LA CROISSANCE CAPILLAIRE SANS TRAITEMENTS COMPLIQUÉS</strong></h4><p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<h4><strong>5 RAISONS POUR LESQUELLES ALPHALAB™ RÉACTIVE INSTANTANÉMENT LA CROISSANCE CAPILLAIRE SANS TRAITEMENTS COMPLIQUÉS</strong></h4><p>Fatigué de jongler avec plusieurs produits capillaires qui ne résolvent jamais vraiment le problème ? </p><p>Continuez à lire pour découvrir comment <strong>Alphalab™ </strong>offre une solution rapide et cliniquement prouvée pour des cheveux plus épais et plus forts - afin que vous puissiez enfin éviter les tracas et constater une véritable repousse.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#1b2c31",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -597,6 +638,43 @@
       "block_order": [
         "image_8UThYJ"
       ],
+      "disabled": true,
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_gTEfy4": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_TBtiY6": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "RAISON 01",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1b2c31",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_TBtiY6"
+      ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
@@ -627,6 +705,7 @@
         "subheading_KrTn98",
         "heading_fUz3eB"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -727,6 +806,7 @@
         "item_HfXD7C",
         "item_z7xUrf"
       ],
+      "disabled": true,
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
@@ -809,6 +889,7 @@
         "testimonial_cypCym",
         "testimonial_qghQXk"
       ],
+      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "full_width": true,
@@ -961,6 +1042,7 @@
         "collapsible_text_qTCiNy",
         "collapsible_text_DLAteF"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
@@ -1133,7 +1215,9 @@
     "multi_column_pdBgmp",
     "media_with_text_3zakGx",
     "media_with_text_rKfjH4",
+    "rich_text_eg6wKp",
     "media_with_text_dfDLx3",
+    "media_with_text_gTEfy4",
     "rich_text_xBpJ9t",
     "image_link_blocks_bqAKRF",
     "testimonials_nTGNFw",
