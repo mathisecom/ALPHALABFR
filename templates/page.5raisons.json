@@ -244,6 +244,12 @@
         "liquid_QCxfLw": {
           "type": "liquid",
           "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_Rqct6c\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <div class=\"main-product__block main-product__block-custom_liquid\" style=\"padding-top: 0;\">\n      <div class=\"m-product-text\">\n        <div class=\"product-info__liquid\">\n          <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n            <span class=\"text-size\">Noté <b>4,8/5</b> sur la base de 3,380 avis</span>\n          </a>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "liquid_ke63Fa": {
+          "type": "liquid",
+          "settings": {
             "liquid": ""
           }
         },
@@ -317,6 +323,7 @@
         "liquid_WYdxYD",
         "title_h8Gxd9",
         "liquid_QCxfLw",
+        "liquid_ke63Fa",
         "price_gjeXPE",
         "variant_picker_9XfWBU",
         "quantity_selector_zPTYHF",
