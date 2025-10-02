@@ -198,10 +198,21 @@
             "show_rating": true,
             "rating": 5
           }
+        },
+        "quote_mHcHqh": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "- Thomas, 34 ans, Lyon",
+            "content": "Mes tempes clairsemées se sont nettement remplies. Mes proches me disent que j’ai l’air plus en forme et plus sûr de moi.",
+            "show_rating": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
-        "quote_MNpfwK"
+        "quote_MNpfwK",
+        "quote_mHcHqh"
       ],
       "name": "Press",
       "settings": {
