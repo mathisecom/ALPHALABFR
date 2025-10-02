@@ -718,6 +718,7 @@
         "image_JJCdgE": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/gempages_586978430721983033-1e43dd67-3f67-47ca-bec1-2d0bc8c31f0c.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
