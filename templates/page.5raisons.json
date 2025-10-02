@@ -253,6 +253,12 @@
             "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div id=\"productBullets\" style=\"display: flex; flex-wrap: wrap;\">\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 10px;\">\n        <!-- SVG inline avec couleur #2D4147 -->\n        <svg class=\"productBulletsItemCheck\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"#2D4147\" style=\"margin-right: 8px;\">\n          <path d=\"M20.285 6.709l-11.025 11.025-5.545-5.545 1.414-1.414 4.131 4.131 9.611-9.611z\"/>\n        </svg>\n        <div class=\"productBulletsItemText body\">Convient à tous les types de cheveux</div>\n      </div>\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 10px;\">\n        <svg class=\"productBulletsItemCheck\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"#2D4147\" style=\"margin-right: 8px;\">\n          <path d=\"M20.285 6.709l-11.025 11.025-5.545-5.545 1.414-1.414 4.131 4.131 9.611-9.611z\"/>\n        </svg>\n        <div class=\"productBulletsItemText body\">Rapide, facile et indolore</div>\n      </div>\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 10px;\">\n        <svg class=\"productBulletsItemCheck\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"#2D4147\" style=\"margin-right: 8px;\">\n          <path d=\"M20.285 6.709l-11.025 11.025-5.545-5.545 1.414-1.414 4.131 4.131 9.611-9.611z\"/>\n        </svg>\n        <div class=\"productBulletsItemText body\">Pas d'effets secondaires ni de chirurgie</div>\n      </div>\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 10px;\">\n        <svg class=\"productBulletsItemCheck\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"#2D4147\" style=\"margin-right: 8px;\">\n          <path d=\"M20.285 6.709l-11.025 11.025-5.545-5.545 1.414-1.414 4.131 4.131 9.611-9.611z\"/>\n        </svg>\n        <div class=\"productBulletsItemText body\">Cheveux plus épais et denses</div>\n      </div>\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 10px;\">\n        <svg class=\"productBulletsItemCheck\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"#2D4147\" style=\"margin-right: 8px;\">\n          <path d=\"M20.285 6.709l-11.025 11.025-5.545-5.545 1.414-1.414 4.131 4.131 9.611-9.611z\"/>\n        </svg>\n        <div class=\"productBulletsItemText body\">Garantie satisfait ou remboursé 90 jours</div>\n      </div>\n      \n    </div>\n  </div>\n</div>"
           }
         },
+        "liquid_dENpLg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div data-rapi-id=\"rapi_64012fbd7b1378\"></div>"
+          }
+        },
         "price_gjeXPE": {
           "type": "price",
           "disabled": true,
@@ -324,6 +330,7 @@
         "title_h8Gxd9",
         "liquid_QCxfLw",
         "liquid_ke63Fa",
+        "liquid_dENpLg",
         "price_gjeXPE",
         "variant_picker_9XfWBU",
         "quantity_selector_zPTYHF",
