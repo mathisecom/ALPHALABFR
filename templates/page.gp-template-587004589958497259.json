@@ -48,7 +48,7 @@
     },
     "gp_section_587114218109535211": {
       "settings": {
-        "checksum": "fc9077f61d52d04339acba3fc7eb69e87d4eb5a91f2a8b6d711f0ca5444480a8_1_1_1_0__1",
+        "checksum": "593ed58fae1f32c757eda05690136f0a7d97371dfae414803e7766922ad37f3d_1_1_1_0__1",
         "gg3fezuPnbZ_text": "<p>Ce système est conçu pour les hommes <strong>qui veulent une vraie repousse, sans complication ni perte de temps</strong>.</p>",
         "ggNGy69cGS3_text": "<span style=\"font-size:32px;\"><strong>Des résultats maximum avec un minimum d’effort</strong></span>",
         "ggNu7S9Lq5M_text": "<p><strong>Étape 2 :</strong> Appuyez doucement le dispositif sur les zones clairsemées. <strong>Moins d’une minute</strong>, sensation légère, comme un petit tapotement sur la peau, <strong>totalement indolore</strong>. Laissez agir et poursuivez votre journée.</p>",
@@ -57,13 +57,24 @@
         "gghiF2b1DnA_text": "<p><span style=\"font-size:16px;\">Pas d’étapes compliquées. Pas de routines interminables. Juste de vrais résultats.</span></p>"
       },
       "type": "gp-section-587114218109535211"
+    },
+    "gp_section_587118197363180089": {
+      "settings": {
+        "checksum": "404123a79eb558d9ef2f73c614d84bf19dcc69a1b569b0306e548992076bf024_1_1_1_0__1",
+        "gg5weSc9EDi_childItem_0": "Your custom text goes here",
+        "gg5weSc9EDi_childItem_1": "Your custom text goes here",
+        "gg5weSc9EDi_childItem_2": "Your custom text goes here",
+        "ggYZcA2o4el_text": "Le seul traitement capillaire dont vous aurez vraiment besoin"
+      },
+      "type": "gp-section-587118197363180089"
     }
   },
   "order": [
     "gp_section_587004892770468522",
     "gp_section_587005476080714602",
     "gp_section_587007949814104938",
-    "gp_section_587114218109535211"
+    "gp_section_587114218109535211",
+    "gp_section_587118197363180089"
   ],
   "layout": "theme.gempages.blank"
 }
