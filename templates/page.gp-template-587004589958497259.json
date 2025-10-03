@@ -71,6 +71,19 @@
         "ggYZcA2o4el_text": "Le seul traitement capillaire dont vous aurez vraiment besoin"
       },
       "type": "gp-section-587118197363180089"
+    },
+    "gp_section_587119216897819498": {
+      "settings": {
+        "checksum": "8f6592ea70715e4bac3543f64d8730b46974e2a9a24ec9f3cb8e3c46167dea25_1_1_1_0__1",
+        "gg4u9CmU49z_text": "<p><span style=\"font-size:12px;\">Livraison&nbsp;</span></p><p><span style=\"font-size:12px;\">Suivie Offerte</span></p>",
+        "ggHQlUlUiT1_text": "ALPHALAB INFUSE.",
+        "ggRyxzazdU5_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(27,44,49);font-size:12px;\">Garantie satisfait ou remboursé 90 jours</span></p>",
+        "ggXpCbTVVtE_label": "<p>ACHETER MAINTENANT</p>",
+        "ggggXJindyZ_text": "<p>+3,000 Hommes Conquis</p>",
+        "ggqplOvrOCE_text": "<p><span style=\"font-size:12px;\">Paiement&nbsp;</span></p><p><span style=\"font-size:12px;\">100% Sécurisés</span></p>",
+        "ggt-aaaLvWN_text": "DES CHEVEUX PARFAITS, UNE VIE MEILLEURE."
+      },
+      "type": "gp-section-587119216897819498"
     }
   },
   "order": [
@@ -78,7 +91,8 @@
     "gp_section_587005476080714602",
     "gp_section_587007949814104938",
     "gp_section_587114218109535211",
-    "gp_section_587118197363180089"
+    "gp_section_587118197363180089",
+    "gp_section_587119216897819498"
   ],
   "layout": "theme.gempages.blank"
 }
