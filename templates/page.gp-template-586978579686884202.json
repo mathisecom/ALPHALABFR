@@ -9,13 +9,6 @@
  */
 {
   "sections": {
-    "gp_global_section_587119074509587306-1": {
-      "settings": {
-        "checksum": "",
-        "section_preload": "false"
-      },
-      "type": "gp-global-section-587119074509587306"
-    },
     "gp_section_586978596782867114": {
       "settings": {
         "checksum": "5c1fe1f3d5e709ea6c16645dd0e9cdccde81ff529bfdd7d7c5e32f6f7ee83ac8_1_1_1_0__1",
@@ -49,12 +42,25 @@
         "section_preload": "true"
       },
       "type": "gp-section-586999427760129003"
+    },
+    "gp_section_587167015119094442": {
+      "settings": {
+        "checksum": "34836dee49baa952e78af7d7b5b86d99ccc743fbe531a4da09a4a86a4e6f19dd_1_1_1_0__1",
+        "ggZ2R2vxGYb_text": "<p><span style=\"font-size:12px;\">Livraison&nbsp;</span></p><p><span style=\"font-size:12px;\">Suivie Offerte</span></p>",
+        "ggZiCXZ-eTX_text": "<p>+3,000 Hommes Conquis</p>",
+        "ggk5wNvAenS_text": "DES CHEVEUX PARFAITS, UNE VIE MEILLEURE.",
+        "ggoMZ-STbF6_label": "<p>ACHETER MAINTENANT</p>",
+        "ggqy3GjEsnN_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(27,44,49);font-size:12px;\">Garantie satisfait ou remboursé 90 jours</span></p>",
+        "ggsDqjSedpK_text": "<p><span style=\"font-size:12px;\">Paiement&nbsp;</span></p><p><span style=\"font-size:12px;\">100% Sécurisés</span></p>",
+        "ggxSbRehFXI_text": "ALPHALAB INFUSE."
+      },
+      "type": "gp-section-587167015119094442"
     }
   },
   "order": [
     "gp_section_586999427760129003",
     "gp_section_586978596782867114",
-    "gp_global_section_587119074509587306-1"
+    "gp_section_587167015119094442"
   ],
   "layout": "theme.gempages.blank"
 }
