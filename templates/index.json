@@ -178,7 +178,7 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "+3,000 Hommes Conquis Par AlphaLAB",
+        "subheading": "+6,000 Hommes Conquis Par AlphaLAB",
         "title": "",
         "content": "<h1>Les Transformations Les Plus Impressionnantes de Nos Clients</h1>",
         "background": "",
@@ -425,7 +425,7 @@
         "heading_dP8hD4": {
           "type": "heading",
           "settings": {
-            "text": "+3,000 Hommes Conquis",
+            "text": "+6,000 Hommes Conquis",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
