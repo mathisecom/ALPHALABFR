@@ -10,52 +10,52 @@
 {
   "sections": {
     "gp_section_587004892770468522": {
+      "type": "gp-section-587004892770468522",
       "settings": {
+        "section_preload": "true",
         "checksum": "07f2594cb95f3353ad4a5f81c7615e07dd0cbdbb95a201a49f880766fe324848_1_1_1_0__1",
+        "ggRoFD8u501_text": "<p>VOUS PERDEZ VOS CHEVEUX ?</p>",
+        "ggCz16W-a84_text": "<span style=\"font-size:30px;\">Stoppez la chute et retrouvez des cheveux plus épais en quelques semaines seulement.</span>",
         "gg0_zuLGC3B_childItem_0": "<p>Éliminez la cause principale des cheveux&nbsp;</p><p>clairsemés et stimulez leur repousse.</p>",
         "gg0_zuLGC3B_childItem_1": "<p>Cliniquement prouvé pour <strong>inverser la perte de cheveux</strong> causée par la génétique, la DHT, le stress, l’alimentation, le vieillissement et bien plus encore.</p>",
         "gg0_zuLGC3B_childItem_2": "<p>Indolore et s’applique en 1 minute.</p>",
-        "gg0_zuLGC3B_childItem_3": "<p>Des résultats durables et visibles pour des cheveux plus longs, plus épais et visiblement rajeunis.</p>",
-        "ggCz16W-a84_text": "<span style=\"font-size:30px;\">Stoppez la chute et retrouvez des cheveux plus épais en quelques semaines seulement.</span>",
-        "ggRoFD8u501_text": "<p>VOUS PERDEZ VOS CHEVEUX ?</p>",
-        "section_preload": "true"
-      },
-      "type": "gp-section-587004892770468522"
+        "gg0_zuLGC3B_childItem_3": "<p>Des résultats durables et visibles pour des cheveux plus longs, plus épais et visiblement rajeunis.</p>"
+      }
     },
     "gp_section_587005476080714602": {
+      "type": "gp-section-587005476080714602",
       "settings": {
         "checksum": "6503fb40679d3416882ae8a32df28e21f141dea6f9bb1490ad0729d1deb82d66_1_1_1_0__1",
-        "ggGOVAaE8Ly_text": "<p><span style=\"font-size:24px;\"><strong>Vous n’êtes pas seul.</strong></span></p><p><br><span style=\"font-size:16px;\">86 % des hommes sont confrontés à la frustration des cheveux clairsemés, d’une ligne frontale qui&nbsp;</span></p><p><span style=\"font-size:16px;\">recule et de zones dégarnies embarrassantes, parfois dès la fin de la vingtaine…</span></p><p>&nbsp;</p><p><span style=\"font-size:16px;\">…Cette angoisse quotidienne de voir sa ligne de cheveux reculer dans le miroir, de se sentir mal à l’aise face aux mèches qui s’affinent et au cuir chevelu de plus en plus visible, et d’observer jour après jour la perte de volume et de densité.</span></p>",
         "ggJkm9f-3aX_text": "<strong>Ne laissez pas la chute de cheveux&nbsp;</strong><br><strong>vous priver de votre confiance.</strong>",
-        "ggfWEVOdxd0_text": "<p><span style=\"font-size:16px;\">Les principaux experts en perte de cheveux ont identifié la cause numéro 1 de la chute des cheveux : <strong>La DHT (dihydrotestostérone)</strong>, une hormone qui attaque silencieusement vos follicules pileux en ce moment même, pendant que vous lisez ces lignes.</span></p><p>&nbsp;</p><p><span style=\"font-size:16px;\">Elle crée un <strong>« effet d’étranglement »</strong>, empêchant les nutriments essentiels d’atteindre vos follicules et les affaiblissant progressivement. Privés de ce dont ils ont besoin pour survivre, vos follicules rétrécissent jour après jour jusqu’à disparaître complètement. Ce processus s’accompagne de <strong>signaux d’alerte quotidiens</strong> : chute de cheveux, recul de la ligne capillaire, cheveux clairsemés et zones de cuir chevelu visibles.</span></p>",
-        "ggqZmhPjorv_text": "<span style=\"font-size:30px;\"><strong>La recherche&nbsp;scientifique&nbsp;</strong></span><br><span style=\"font-size:30px;\"><strong>révèle&nbsp;la véritable cause&nbsp;de la perte de cheveux</strong></span>"
-      },
-      "type": "gp-section-587005476080714602"
+        "ggGOVAaE8Ly_text": "<p><span style=\"font-size:24px;\"><strong>Vous n’êtes pas seul.</strong></span></p><p><br><span style=\"font-size:16px;\">86 % des hommes sont confrontés à la frustration des cheveux clairsemés, d’une ligne frontale qui&nbsp;</span></p><p><span style=\"font-size:16px;\">recule et de zones dégarnies embarrassantes, parfois dès la fin de la vingtaine…</span></p><p>&nbsp;</p><p><span style=\"font-size:16px;\">…Cette angoisse quotidienne de voir sa ligne de cheveux reculer dans le miroir, de se sentir mal à l’aise face aux mèches qui s’affinent et au cuir chevelu de plus en plus visible, et d’observer jour après jour la perte de volume et de densité.</span></p>",
+        "ggqZmhPjorv_text": "<span style=\"font-size:30px;\"><strong>La recherche&nbsp;scientifique&nbsp;</strong></span><br><span style=\"font-size:30px;\"><strong>révèle&nbsp;la véritable cause&nbsp;de la perte de cheveux</strong></span>",
+        "ggfWEVOdxd0_text": "<p><span style=\"font-size:16px;\">Les principaux experts en perte de cheveux ont identifié la cause numéro 1 de la chute des cheveux : <strong>La DHT (dihydrotestostérone)</strong>, une hormone qui attaque silencieusement vos follicules pileux en ce moment même, pendant que vous lisez ces lignes.</span></p><p>&nbsp;</p><p><span style=\"font-size:16px;\">Elle crée un <strong>« effet d’étranglement »</strong>, empêchant les nutriments essentiels d’atteindre vos follicules et les affaiblissant progressivement. Privés de ce dont ils ont besoin pour survivre, vos follicules rétrécissent jour après jour jusqu’à disparaître complètement. Ce processus s’accompagne de <strong>signaux d’alerte quotidiens</strong> : chute de cheveux, recul de la ligne capillaire, cheveux clairsemés et zones de cuir chevelu visibles.</span></p>"
+      }
     },
     "gp_section_587007949814104938": {
+      "type": "gp-section-587007949814104938",
       "settings": {
         "checksum": "9bab95973ddf9b6bd5eca08b44821ab0592e83bbe8060bbd6b469868f27422fc_1_1_1_0__1",
+        "ggOfTH86r5r_text": "<span style=\"font-size:33px;\">Obtenez rapidement des cheveux plus épais et plus séduisants</span>",
         "gg3Pi6IATRX_text": "<p>Découvrez les 3 innovations scientifiques qui font la force du système de repousse capillaire AlphaInfuse™</p>",
-        "ggA74GRUmIu_text": "<p>Le système <strong>AlphaInfuse™</strong> s’appuie sur un mélange naturel cliniquement prouvé, offrant des résultats visibles <strong>sans aucun effet secondaire</strong>.</p><p>&nbsp;</p><p><span style=\"font-size:16px;\">Sa composition associe :</span></p><ul><li><span style=\"font-size:16px;\"><strong>Panax Ginseng</strong> : reconnu pour bloquer la DHT et favoriser la repousse.</span></li><li><span style=\"font-size:16px;\"><strong>Extrait d’Eclipta Prostrata</strong> : stimule la régénération des follicules.</span></li><li><span style=\"font-size:16px;\"><strong>Huile de menthe poivrée &amp; extrait de racine de gingembre</strong> : riches en nutriments, ils améliorent la circulation sanguine et créent un environnement optimal pour des cheveux plus forts et plus denses.</span></li></ul>",
-        "ggCQ-FqdssL_text": "<p>Bien plus qu’un simple booster d’absorption, les micro-aiguilles <strong>activent le cuir chevelu</strong> et accélèrent le processus naturel de croissance.</p><p>&nbsp;</p><p>Ces micro-stimulations incitent le corps à envoyer davantage de nutriments vers le cuir chevelu afin de réparer la zone, déclenchant ainsi une <strong>réponse naturelle de régénération</strong>.</p><p><br>Les études cliniques démontrent que les micro-aiguilles permettent une repousse des cheveux <strong>jusqu’à 5 fois plus rapide</strong>.</p>",
         "ggDwYtZT3uM_text": "<span style=\"font-size:30px;\"><strong>1. Un système d’action avancé</strong></span>",
         "ggMvXt_EyxP_text": "<p>Pendant longtemps, les chercheurs ont cherché à faire parvenir les ingrédients actifs directement au cœur du problème : la racine du cheveu. Aujourd’hui, c’est enfin possible.</p><p>&nbsp;</p><p>Grâce à la <strong>technologie de micro-infusion</strong>, de minuscules canaux sont créés dans le cuir chevelu, permettant une absorption jusqu’à <strong>300 % supérieure</strong>.</p><p>&nbsp;</p><p>Ainsi, <strong>10 à 15 fois plus d’ingrédients actifs</strong> atteignent directement les follicules.</p><p>Cette innovation a déjà permis à des milliers d’hommes de <strong>stopper la chute de cheveux</strong> et de <strong>relancer la croissance capillaire plus rapidement que jamais</strong>.</p>",
-        "ggOfTH86r5r_text": "<span style=\"font-size:33px;\">Obtenez rapidement des cheveux plus épais et plus séduisants</span>",
         "ggPuGdo8fLt_text": "<span style=\"font-size:30px;\"><strong>2. Une formule&nbsp;à double action</strong></span>",
-        "ggepvq9x_J6_text": "<span style=\"font-size:30px;\"><strong>3. La stimulation par&nbsp;</strong></span><br><span style=\"font-size:30px;\"><strong>micro-aiguilles</strong></span>"
-      },
-      "type": "gp-section-587007949814104938"
+        "ggA74GRUmIu_text": "<p>Le système <strong>AlphaInfuse™</strong> s’appuie sur un mélange naturel cliniquement prouvé, offrant des résultats visibles <strong>sans aucun effet secondaire</strong>.</p><p>&nbsp;</p><p><span style=\"font-size:16px;\">Sa composition associe :</span></p><ul><li><span style=\"font-size:16px;\"><strong>Panax Ginseng</strong> : reconnu pour bloquer la DHT et favoriser la repousse.</span></li><li><span style=\"font-size:16px;\"><strong>Extrait d’Eclipta Prostrata</strong> : stimule la régénération des follicules.</span></li><li><span style=\"font-size:16px;\"><strong>Huile de menthe poivrée &amp; extrait de racine de gingembre</strong> : riches en nutriments, ils améliorent la circulation sanguine et créent un environnement optimal pour des cheveux plus forts et plus denses.</span></li></ul>",
+        "ggepvq9x_J6_text": "<span style=\"font-size:30px;\"><strong>3. La stimulation par&nbsp;</strong></span><br><span style=\"font-size:30px;\"><strong>micro-aiguilles</strong></span>",
+        "ggCQ-FqdssL_text": "<p>Bien plus qu’un simple booster d’absorption, les micro-aiguilles <strong>activent le cuir chevelu</strong> et accélèrent le processus naturel de croissance.</p><p>&nbsp;</p><p>Ces micro-stimulations incitent le corps à envoyer davantage de nutriments vers le cuir chevelu afin de réparer la zone, déclenchant ainsi une <strong>réponse naturelle de régénération</strong>.</p><p><br>Les études cliniques démontrent que les micro-aiguilles permettent une repousse des cheveux <strong>jusqu’à 5 fois plus rapide</strong>.</p>"
+      }
     },
     "gp_section_587114218109535211": {
+      "type": "gp-section-587114218109535211",
       "settings": {
-        "checksum": "f25f69ca9dfd055477c276847f7f94955ed8b254e228875f9936572c884d5cfe_1_1_1_0__1",
+        "checksum": "adb3a7d3a1ecc200f918b523309652a51b91cf093a9083f4638a1bb5606cf0a9_1_1_1_0__1",
         "ggNGy69cGS3_text": "<span style=\"font-size:32px;\"><strong>Des résultats maximum avec un minimum d’effort</strong></span>",
-        "ggNu7S9Lq5M_text": "<p><strong>Étape 2 :</strong> Appuyez doucement le dispositif sur les zones clairsemées.&nbsp;</p><p><strong>Moins d’une minute</strong>, sensation légère, comme un petit tapotement sur la peau, <strong>totalement indolore</strong>. Laissez agir et poursuivez votre journée.</p>",
-        "ggaytR0I6RO_text": "<p><strong>Étape 3 :</strong> <strong>Observez les résultats dès 1 semaine</strong>, avec une repousse visible en seulement <strong>8 à 10 semaines</strong>.</p>",
+        "gghiF2b1DnA_text": "<p><span style=\"font-size:16px;\">Pas d’étapes compliquées. Pas de routines interminables. Juste de vrais résultats.</span></p>",
         "gghZjFEvQQv_text": "<p><strong>Étape 1 :</strong> Remplissez le dispositif de micro-infusion avec la formule — <strong>aucune préparation, aucun désordre</strong>.</p>",
-        "gghiF2b1DnA_text": "<p><span style=\"font-size:16px;\">Pas d’étapes compliquées. Pas de routines interminables. Juste de vrais résultats.</span></p>"
-      },
-      "type": "gp-section-587114218109535211"
+        "ggNu7S9Lq5M_text": "<p><strong>Étape 2 :</strong> Appuyez doucement le dispositif sur les zones clairsemées.&nbsp;</p><p><strong>Moins d’une minute</strong>, sensation légère, comme un petit tapotement sur la peau, <strong>totalement indolore</strong>. Laissez agir et poursuivez votre journée.</p>",
+        "ggaytR0I6RO_text": "<p><strong>Étape 3 :</strong> <strong>Observez les résultats dès 1 semaine</strong>, avec une repousse visible en seulement <strong>8 à 10 semaines</strong>.</p>"
+      }
     }
   },
   "order": [
