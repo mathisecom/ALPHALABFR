@@ -111,6 +111,82 @@
         "logo_item_border": ""
       }
     },
+    "multi_column_fwgfmR": {
+      "type": "multi-column",
+      "blocks": {
+        "item_haHhjK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_38.jpg",
+            "column_size": "4",
+            "title": "Philipe L.",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dqC4fB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_37.jpg",
+            "column_size": "4",
+            "title": "Cédric C.",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MfAGGA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_39.jpg",
+            "column_size": "4",
+            "title": "Louis D.",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jUDHxn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2025-03-20T161232.693.webp",
+            "column_size": "4",
+            "title": "Sylvain J.",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_haHhjK",
+        "item_dqC4fB",
+        "item_MfAGGA",
+        "item_jUDHxn"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "+6,000 Hommes Conquis Par AlphaLAB",
+        "title": "",
+        "content": "<h1>Les Transformations Impressionnantes de Nos Clients</h1>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -263,82 +339,6 @@
         "input_text_color": ""
       }
     },
-    "multi_column_fwgfmR": {
-      "type": "multi-column",
-      "blocks": {
-        "item_haHhjK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Titre_38.jpg",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dqC4fB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Titre_37.jpg",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_MfAGGA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Titre_39.jpg",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jUDHxn": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Untitled_design_-_2025-03-20T161232.693.webp",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_haHhjK",
-        "item_dqC4fB",
-        "item_MfAGGA",
-        "item_jUDHxn"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "+6,000 Hommes Conquis Par AlphaLAB",
-        "title": "",
-        "content": "<h1>Les Transformations Les Plus Impressionnantes de Nos Clients</h1>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "press_H97AjL": {
       "type": "press",
       "blocks": {
@@ -401,6 +401,7 @@
         "quote_g9KEK4",
         "quote_KfYxax"
       ],
+      "disabled": true,
       "name": "Press",
       "settings": {
         "full_width": true,
@@ -1201,8 +1202,8 @@
   "order": [
     "slideshow_gtRhkT",
     "logo_list_9ptVXL",
-    "main",
     "multi_column_fwgfmR",
+    "main",
     "press_H97AjL",
     "media_with_text_KgF8Fq",
     "multi_column_9CYhRg",
