@@ -213,7 +213,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Soin_professionnel_a_domicile.svg",
-            "mobile_image": "shopify://shop_images/Sous-titre_2.svg",
+            "mobile_image": "shopify://shop_images/Sous-titre_3.svg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
