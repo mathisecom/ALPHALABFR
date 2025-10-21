@@ -15,8 +15,8 @@
         "image_H639rx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BANNER_PC_12.jpg",
-            "mobile_image": "shopify://shop_images/BANNER_MOBILE_30.jpg",
+            "image": "shopify://shop_images/BANNER_PC_12.webp",
+            "mobile_image": "shopify://shop_images/BANNER_MOBILE_30.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -50,6 +50,65 @@
         "cycle_speed": 6,
         "background": "#F2F2F2",
         "background_gradient": ""
+      }
+    },
+    "logo_list_9ptVXL": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_KrprUJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025.png",
+            "logo_width": 90,
+            "link": ""
+          }
+        },
+        "logo_FGk79H": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_1.png",
+            "logo_width": 90,
+            "link": ""
+          }
+        },
+        "logo_8at7hy": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_2.png",
+            "logo_width": 90,
+            "link": ""
+          }
+        },
+        "logo_cimfy7": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_3.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_KrprUJ",
+        "logo_FGk79H",
+        "logo_8at7hy",
+        "logo_cimfy7"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "<h6><strong>DÉJA VU SUR :</strong></h6>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
       }
     },
     "main": {
@@ -352,65 +411,6 @@
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "logo_list_9ptVXL": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_KrprUJ": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025.png",
-            "logo_width": 90,
-            "link": ""
-          }
-        },
-        "logo_FGk79H": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_1.png",
-            "logo_width": 90,
-            "link": ""
-          }
-        },
-        "logo_8at7hy": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_2.png",
-            "logo_width": 90,
-            "link": ""
-          }
-        },
-        "logo_cimfy7": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/bienetre-et-sante_logo_2025_3.png",
-            "logo_width": 100,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_KrprUJ",
-        "logo_FGk79H",
-        "logo_8at7hy",
-        "logo_cimfy7"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": false,
-        "title": "",
-        "content": "<p><strong>DÉJA VU SUR :</strong></p>",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "#f2f8f9",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#f2f8f9",
         "logo_item_border": ""
       }
     },
@@ -1200,10 +1200,10 @@
   },
   "order": [
     "slideshow_gtRhkT",
+    "logo_list_9ptVXL",
     "main",
     "multi_column_fwgfmR",
     "press_H97AjL",
-    "logo_list_9ptVXL",
     "media_with_text_KgF8Fq",
     "multi_column_9CYhRg",
     "scrolling_text_3TmHLJ",
